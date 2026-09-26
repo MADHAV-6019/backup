@@ -1,0 +1,49 @@
+{
+  "manifest_version": 3,
+  "name": "Teledown - Telegram Media Downloader",
+  "description": "Download videos, photos, GIFs, voice notes, and audio from Telegram Web channels and groups (including restricted chats) in one click.",
+  "version": "1.1.0",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Teledown Media Capture"
+  },
+  "permissions": [
+    "activeTab",
+    "downloads",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://web.telegram.org/*",
+    "https://*.telegram.org/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://web.telegram.org/*"
+      ],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["icons/*"],
+      "matches": ["https://web.telegram.org/*"]
+    }
+  ]
+}

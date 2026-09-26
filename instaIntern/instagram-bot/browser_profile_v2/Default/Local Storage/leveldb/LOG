@@ -1,0 +1,15 @@
+2026/06/05-02:48:57.995 43c8 Reusing MANIFEST C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\browser_profile_v2\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/05-02:48:58.000 43c8 Recovering log #17
+2026/06/05-02:48:58.001 43c8 Reusing old log C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\browser_profile_v2\Default\Local Storage\leveldb/000017.log 
+2026/06/05-02:49:58.004 5bb4 Level-0 table #20: started
+2026/06/05-02:49:58.016 5bb4 Level-0 table #20: 16092 bytes OK
+2026/06/05-02:49:58.017 5bb4 Delete type=0 #17
+2026/06/05-02:49:58.017 5bb4 Compacting 4@0 + 1@1 files
+2026/06/05-02:49:58.019 5bb4 Generated table #21@0: 1033 keys, 70806 bytes
+2026/06/05-02:49:58.019 5bb4 Compacted 4@0 + 1@1 files => 70806 bytes
+2026/06/05-02:49:58.020 5bb4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/05-02:49:58.020 5bb4 Delete type=2 #8
+2026/06/05-02:49:58.020 5bb4 Delete type=2 #11
+2026/06/05-02:49:58.020 5bb4 Delete type=2 #14
+2026/06/05-02:49:58.020 5bb4 Delete type=2 #16
+2026/06/05-02:49:58.020 5bb4 Delete type=2 #20

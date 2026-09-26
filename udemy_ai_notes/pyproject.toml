@@ -1,0 +1,90 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "udemy-ai-notes"
+version = "1.0.0"
+description = "AI-Powered Udemy Course Note Generator — Convert video lectures into comprehensive study notes"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.12"
+authors = [
+    {name = "Madhav"},
+]
+keywords = ["udemy", "ai", "notes", "transcription", "study"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Education",
+]
+
+dependencies = [
+    # CLI
+    "typer[all]>=0.12.0",
+    "rich>=13.0",
+    "tqdm>=4.66",
+    # Browser Automation
+    "playwright>=1.40",
+    # Audio
+    "faster-whisper>=1.0.0",
+    "pydub>=0.25",
+    "sounddevice>=0.4",
+    # Vision / OCR
+    "opencv-python>=4.9",
+    "easyocr>=1.7",
+    "scikit-image>=0.22",
+    "numpy>=1.26",
+    "Pillow>=10.0",
+    # AI / LLM
+    "langchain>=0.3",
+    "langchain-openai>=0.2",
+    "langchain-google-genai>=2.0",
+    "langchain-groq>=0.1",
+    "pydantic>=2.5",
+    "questionary>=2.0",
+    # Export
+    "markdown>=3.5",
+    "weasyprint>=62.0",
+    "Jinja2>=3.1",
+    "Pygments>=2.17",
+    # Config / Data
+    "pyyaml>=6.0",
+    "python-dotenv>=1.0",
+    # Utilities
+    "aiofiles>=23.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "pytest-cov>=4.1",
+    "ruff>=0.4",
+    "mypy>=1.8",
+]
+
+[project.scripts]
+notes-ai = "notes_ai.cli.app:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "SIM"]
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"

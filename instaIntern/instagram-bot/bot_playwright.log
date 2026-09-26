@@ -1,0 +1,2040 @@
+2026-06-04 18:02:18,784 [INFO] ============================================================
+2026-06-04 18:02:18,784 [INFO] FIRST RUN: Opening browser for manual login...
+2026-06-04 18:02:18,785 [INFO] Please log in to Instagram in the browser window.
+2026-06-04 18:02:18,785 [INFO] After logging in, press ENTER in this terminal.
+2026-06-04 18:02:18,785 [INFO] ============================================================
+2026-06-04 18:03:10,744 [INFO] ============================================================
+2026-06-04 18:03:10,744 [INFO] FIRST RUN: Opening browser for manual login...
+2026-06-04 18:03:10,768 [INFO] Please log in to Instagram in the browser window.
+2026-06-04 18:03:10,768 [INFO] After logging in, press ENTER in this terminal.
+2026-06-04 18:03:10,768 [INFO] ============================================================
+2026-06-04 18:36:47,822 [INFO] ============================================================
+2026-06-04 18:36:47,822 [INFO] FIRST RUN: Opening browser for manual login...
+2026-06-04 18:36:47,822 [INFO] Please log in to Instagram in the browser window.
+2026-06-04 18:36:47,822 [INFO] After logging in, press ENTER in this terminal.
+2026-06-04 18:36:47,822 [INFO] ============================================================
+2026-06-04 18:37:23,276 [INFO] ✅ Saved 6 cookies to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\session_cookies.json
+2026-06-04 18:37:23,472 [INFO] Login saved! Starting headless bot...
+2026-06-04 18:37:23,472 [INFO] 🤖 Starting headless bot...
+2026-06-04 18:37:23,948 [INFO] ✅ Loaded 6 cookies
+2026-06-04 18:38:18,575 [INFO] 🤖 Starting headless bot...
+2026-06-04 18:38:18,950 [INFO] ✅ Loaded 6 cookies
+2026-06-04 18:38:25,809 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 18:38:32,325 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:38:32,326 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:38:32,326 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:38:32,328 [INFO] ✅ Reel finished
+2026-06-04 18:38:32,355 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:38:35,469 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:38:35,470 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:38:35,470 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:38:35,475 [INFO] ✅ Reel finished
+2026-06-04 18:38:35,485 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:38:38,150 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:38:38,151 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:38:38,152 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:38:38,167 [INFO] ✅ Reel finished
+2026-06-04 18:38:38,177 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:38:41,028 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:38:41,028 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:38:41,028 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:38:41,031 [INFO] ✅ Reel finished
+2026-06-04 18:38:41,036 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:38:44,267 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:38:44,267 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:38:44,267 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:38:44,271 [INFO] ✅ Reel finished
+2026-06-04 18:38:44,281 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:38:48,208 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 18:38:48,209 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 18:38:57,042 [INFO] 📬 Checking DMs: Requests
+2026-06-04 18:39:07,114 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:07,114 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:07,114 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:07,114 [INFO] ✅ Reel finished
+2026-06-04 18:39:07,125 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:09,870 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:09,870 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:09,870 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:09,873 [INFO] ✅ Reel finished
+2026-06-04 18:39:09,881 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:12,225 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:12,225 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:12,226 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:12,228 [INFO] ✅ Reel finished
+2026-06-04 18:39:12,236 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:14,879 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:14,879 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:14,879 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:14,881 [INFO] ✅ Reel finished
+2026-06-04 18:39:14,889 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:17,214 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:17,215 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:17,215 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:17,219 [INFO] ✅ Reel finished
+2026-06-04 18:39:17,232 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:20,939 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-04 18:39:20,939 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 18:39:29,663 [INFO] 📬 Checking DMs: Requests
+2026-06-04 18:39:40,069 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:40,070 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:40,070 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:40,074 [INFO] ✅ Reel finished
+2026-06-04 18:39:40,087 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:42,177 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:42,177 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:42,177 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:42,177 [INFO] ✅ Reel finished
+2026-06-04 18:39:42,183 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:45,395 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:45,395 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:45,395 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:45,396 [INFO] ✅ Reel finished
+2026-06-04 18:39:45,404 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:48,895 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:48,896 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:48,896 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:48,898 [INFO] ✅ Reel finished
+2026-06-04 18:39:48,904 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:52,904 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:39:52,905 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:39:52,905 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:39:52,908 [INFO] ✅ Reel finished
+2026-06-04 18:39:52,919 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:39:55,054 [INFO] 📬 Checking DMs after 15 reels...
+2026-06-04 18:39:55,054 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 18:40:02,635 [INFO] 📬 Checking DMs: Requests
+2026-06-04 18:40:12,419 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:40:12,419 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:40:12,419 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:40:12,422 [INFO] ✅ Reel finished
+2026-06-04 18:40:12,429 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:40:14,724 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:40:14,724 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:40:14,724 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:40:14,727 [INFO] ✅ Reel finished
+2026-06-04 18:40:14,734 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:40:18,659 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:40:18,660 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:40:18,660 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:40:18,666 [INFO] ✅ Reel finished
+2026-06-04 18:40:18,690 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:40:21,832 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:40:21,832 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:40:21,832 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:40:21,836 [INFO] ✅ Reel finished
+2026-06-04 18:40:21,847 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:40:50,936 [INFO] 🤖 Starting headless bot...
+2026-06-04 18:40:51,285 [INFO] ✅ Loaded 6 cookies
+2026-06-04 18:40:55,604 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 18:41:02,238 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:02,238 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:02,238 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:02,240 [INFO] ✅ Reel finished
+2026-06-04 18:41:02,302 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:04,475 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:04,475 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:04,476 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:04,478 [INFO] ✅ Reel finished
+2026-06-04 18:41:04,485 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:08,382 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:08,382 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:08,383 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:08,386 [INFO] ✅ Reel finished
+2026-06-04 18:41:08,391 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:11,656 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:11,656 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:11,656 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:11,656 [INFO] ✅ Reel finished
+2026-06-04 18:41:11,673 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:14,744 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:14,745 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:14,745 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:14,749 [INFO] ✅ Reel finished
+2026-06-04 18:41:14,757 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:18,719 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 18:41:18,719 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 18:41:27,752 [INFO] 📬 Checking DMs: Requests
+2026-06-04 18:41:37,869 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:37,869 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:37,869 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:37,871 [INFO] ✅ Reel finished
+2026-06-04 18:41:37,877 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:41,828 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:41,828 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:41,828 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:41,831 [INFO] ✅ Reel finished
+2026-06-04 18:41:41,839 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:45,591 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:45,591 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:45,592 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:45,596 [INFO] ✅ Reel finished
+2026-06-04 18:41:45,604 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:48,053 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:48,053 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:48,053 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:48,056 [INFO] ✅ Reel finished
+2026-06-04 18:41:48,062 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:51,593 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:41:51,593 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:41:51,594 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:41:51,596 [INFO] ✅ Reel finished
+2026-06-04 18:41:51,601 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:41:54,636 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-04 18:41:54,637 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 18:42:02,133 [INFO] 📬 Checking DMs: Requests
+2026-06-04 18:42:14,459 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:42:14,459 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:42:14,460 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:42:14,462 [INFO] ✅ Reel finished
+2026-06-04 18:42:14,469 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:42:17,525 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:42:17,526 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:42:17,526 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:42:17,529 [INFO] ✅ Reel finished
+2026-06-04 18:42:17,537 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:42:21,537 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:42:21,537 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:42:21,537 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:42:21,539 [INFO] ✅ Reel finished
+2026-06-04 18:42:21,547 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:42:24,462 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:42:24,462 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:42:24,462 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:42:24,464 [INFO] ✅ Reel finished
+2026-06-04 18:42:24,471 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:42:28,052 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:42:28,052 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:42:28,053 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:42:28,055 [INFO] ✅ Reel finished
+2026-06-04 18:42:28,062 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:42:30,157 [INFO] 📬 Checking DMs after 15 reels...
+2026-06-04 18:42:30,157 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 18:42:38,926 [INFO] 📬 Checking DMs: Requests
+2026-06-04 18:42:49,016 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:42:49,017 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:42:49,017 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:42:49,018 [INFO] ✅ Reel finished
+2026-06-04 18:42:49,028 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:42:51,375 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:42:51,376 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:42:51,377 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:42:51,380 [INFO] ✅ Reel finished
+2026-06-04 18:42:51,391 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:42:54,257 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:42:54,258 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:42:54,258 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:42:54,262 [INFO] ✅ Reel finished
+2026-06-04 18:42:54,270 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:42:57,885 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:42:57,885 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:42:57,885 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:42:57,887 [INFO] ✅ Reel finished
+2026-06-04 18:42:57,895 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:43:00,842 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:43:00,842 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:43:00,842 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:43:00,845 [INFO] ✅ Reel finished
+2026-06-04 18:43:00,855 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:43:03,797 [INFO] 📬 Checking DMs after 20 reels...
+2026-06-04 18:43:03,797 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 18:43:11,471 [INFO] 📬 Checking DMs: Requests
+2026-06-04 18:44:32,574 [INFO] ============================================================
+2026-06-04 18:44:32,574 [INFO] FIRST RUN: Opening browser for manual login...
+2026-06-04 18:44:32,574 [INFO] Please log in to Instagram in the browser window.
+2026-06-04 18:44:32,574 [INFO] After logging in, press ENTER in this terminal.
+2026-06-04 18:44:32,574 [INFO] ============================================================
+2026-06-04 18:47:10,530 [INFO] 🤖 Starting headless bot...
+2026-06-04 18:47:15,853 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 18:47:15,853 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 18:47:21,960 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:47:21,960 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:47:21,960 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:47:21,964 [INFO] ✅ Reel finished
+2026-06-04 18:47:21,992 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:47:24,265 [INFO] 📄 Caption: Username, email or mobile number
+2026-06-04 18:47:24,265 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:47:24,266 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:47:24,269 [INFO] ✅ Reel finished
+2026-06-04 18:47:24,294 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:47:25,218 [INFO] Closing browser...
+2026-06-04 18:48:28,303 [INFO] 🤖 Starting headless bot...
+2026-06-04 18:48:33,608 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 18:48:33,608 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 18:48:39,160 [INFO] 📄 Caption: Contact Uploading & Non-Users
+2026-06-04 18:48:39,160 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:48:39,160 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:48:39,162 [INFO] ✅ Reel finished
+2026-06-04 18:48:39,191 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:48:42,424 [INFO] 📄 Caption: Contact Uploading & Non-Users
+2026-06-04 18:48:42,424 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:48:42,424 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:48:42,426 [INFO] ✅ Reel finished
+2026-06-04 18:48:42,451 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:48:45,092 [INFO] 📄 Caption: Contact Uploading & Non-Users
+2026-06-04 18:48:45,092 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:48:45,092 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:48:45,096 [INFO] ✅ Reel finished
+2026-06-04 18:48:45,107 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:48:48,808 [INFO] 📄 Caption: Contact Uploading & Non-Users
+2026-06-04 18:48:48,808 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:48:48,808 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:48:48,811 [INFO] ✅ Reel finished
+2026-06-04 18:48:48,820 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:48:51,474 [INFO] 📄 Caption: Contact Uploading & Non-Users
+2026-06-04 18:48:51,475 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:48:51,476 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:48:51,480 [INFO] ✅ Reel finished
+2026-06-04 18:48:51,492 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 18:48:51,860 [INFO] Closing browser...
+2026-06-04 18:50:04,872 [INFO] ============================================================
+2026-06-04 18:50:04,872 [INFO] FIRST RUN: Opening browser for manual login...
+2026-06-04 18:50:04,872 [INFO] Please log in to Instagram in the browser window.
+2026-06-04 18:50:04,872 [INFO] After logging in, press ENTER in this terminal.
+2026-06-04 18:50:04,872 [INFO] ============================================================
+2026-06-04 18:52:51,556 [INFO] ✅ Profile saved! Starting headless bot...
+2026-06-04 18:52:51,840 [INFO] Login saved! Starting headless bot...
+2026-06-04 18:52:51,840 [INFO] 🤖 Starting headless bot...
+2026-06-04 18:52:59,415 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 18:52:59,415 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 18:53:07,748 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:07,748 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:07,749 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:11,851 [INFO] ✅ Reel finished
+2026-06-04 18:53:11,883 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:53:14,987 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:14,988 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:14,988 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:14,991 [INFO] ✅ Reel finished
+2026-06-04 18:53:15,002 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:53:17,399 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:17,399 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:17,399 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:17,402 [INFO] ✅ Reel finished
+2026-06-04 18:53:17,408 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:53:20,490 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:20,490 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:20,490 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:20,492 [INFO] ✅ Reel finished
+2026-06-04 18:53:20,499 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:53:22,537 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:22,537 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:22,538 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:22,540 [INFO] ✅ Reel finished
+2026-06-04 18:53:22,546 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:53:26,351 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 18:53:26,352 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 18:53:35,378 [INFO] 📬 Checking DMs: Requests
+2026-06-04 18:53:45,840 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:45,841 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:45,841 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:45,844 [INFO] ✅ Reel finished
+2026-06-04 18:53:45,850 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:53:49,791 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:49,791 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:49,791 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:49,795 [INFO] ✅ Reel finished
+2026-06-04 18:53:49,802 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:53:52,257 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:52,258 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:52,258 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:52,261 [INFO] ✅ Reel finished
+2026-06-04 18:53:52,268 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:53:55,450 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:55,450 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:55,451 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:55,454 [INFO] ✅ Reel finished
+2026-06-04 18:53:55,459 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:53:58,343 [INFO] 📄 Caption: chaoticmemegirl Follow (us) for more people know that The Family Man Season 2 originally had a diffe
+2026-06-04 18:53:58,343 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 18:53:58,343 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 18:53:58,346 [INFO] ✅ Reel finished
+2026-06-04 18:53:58,351 [INFO] ⬇️  Scrolled via container
+2026-06-04 18:54:01,338 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-04 18:54:01,338 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 18:54:02,465 [INFO] Closing browser...
+2026-06-04 18:54:02,839 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.instagram.com/direct/", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.instagram.com/direct/", waiting until "domcontentloaded"
+
+2026-06-04 19:02:44,572 [INFO] 🤖 Starting headless bot...
+2026-06-04 19:02:56,190 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 19:02:56,190 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 19:03:01,798 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:03:01,798 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:03:01,798 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:03:18,568 [INFO] ✅ Reel finished
+2026-06-04 19:03:18,598 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:03:22,459 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:03:22,460 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:03:22,460 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:03:22,480 [INFO] ✅ Reel finished
+2026-06-04 19:03:22,488 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:03:26,071 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:03:26,072 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:03:26,072 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:03:26,078 [INFO] ✅ Reel finished
+2026-06-04 19:03:26,091 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:03:28,790 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:03:28,791 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:03:28,792 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:03:28,795 [INFO] ✅ Reel finished
+2026-06-04 19:03:28,807 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:03:31,655 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:03:31,655 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:03:31,656 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:03:31,658 [INFO] ✅ Reel finished
+2026-06-04 19:03:31,664 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:03:33,731 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 19:03:33,731 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:03:43,017 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:03:56,226 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:03:56,232 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:03:56,233 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:03:56,254 [INFO] ✅ Reel finished
+2026-06-04 19:03:56,269 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:03:59,566 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:03:59,566 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:03:59,566 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:03:59,572 [INFO] ✅ Reel finished
+2026-06-04 19:03:59,582 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:04:02,248 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:04:02,249 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:04:02,249 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:04:02,259 [INFO] ✅ Reel finished
+2026-06-04 19:04:02,275 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:04:04,369 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:04:04,369 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:04:04,370 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:04:04,374 [INFO] ✅ Reel finished
+2026-06-04 19:04:04,384 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:04:07,206 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:04:07,206 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:04:07,206 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:04:07,211 [INFO] ✅ Reel finished
+2026-06-04 19:04:07,220 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:04:09,337 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-04 19:04:09,337 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:04:17,822 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:04:29,993 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:04:29,993 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:04:29,993 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:04:29,995 [INFO] ✅ Reel finished
+2026-06-04 19:04:30,003 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:04:32,003 [INFO] 📄 Caption: How can I complain about my exhausting routine… when a year ago I was begging for this life?You once
+2026-06-04 19:04:32,004 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:04:32,004 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:04:32,006 [INFO] ✅ Reel finished
+2026-06-04 19:04:32,013 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:04:32,124 [INFO] Closing browser...
+2026-06-04 19:04:37,170 [INFO] 🤖 Starting headless bot...
+2026-06-04 19:04:49,404 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 19:04:49,405 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 19:04:54,943 [INFO] 📄 Caption: What are the words sweeter than “I love you”🔔Follow @aman_deep_2025 🚀Save and Reshare ♾️#coding #pro
+2026-06-04 19:04:54,944 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:04:54,945 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:05:03,454 [INFO] ✅ Reel finished
+2026-06-04 19:05:03,506 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:05:05,504 [INFO] 📄 Caption: When no one knows your plans, no one can block them.… more
+2026-06-04 19:05:05,504 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:05:05,504 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:05:05,530 [INFO] ✅ Reel finished
+2026-06-04 19:05:05,540 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:05:08,630 [INFO] 📄 Caption: Someone’s gotta pay for it 😅 Comment PRICE and I’ll send you details on your favorite.
+2026-06-04 19:05:08,630 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:05:08,630 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:05:08,635 [INFO] ✅ Reel finished
+2026-06-04 19:05:08,645 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:05:12,037 [INFO] 📄 Caption: Career 💻.....(Career,motivation,Deloitte, India, Pune, Usi, Hyderabad, life at Deloitte, Deloitte of
+2026-06-04 19:05:12,038 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:05:12,038 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:05:12,041 [INFO] ✅ Reel finished
+2026-06-04 19:05:12,052 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:05:15,592 [INFO] 📄 Caption: 1L Year is such a difficult time, please be easy on yourself, my dms are always open 🤍*****#1L #morn
+2026-06-04 19:05:15,593 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:05:15,593 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:05:15,595 [INFO] ✅ Reel finished
+2026-06-04 19:05:15,604 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:05:18,421 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 19:05:18,421 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:05:27,291 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:05:39,681 [INFO] 📄 Caption: One-way flight cutie 💫 #fyp #foryoupage #livingabroad #workingabroad #usa
+2026-06-04 19:05:39,681 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:05:39,681 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:05:39,685 [INFO] ✅ Reel finished
+2026-06-04 19:05:39,691 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:05:41,771 [INFO] 📄 Caption: 7 problems and how to solve them! 1. Atomic Habits — James Clear2. Mastery — Robert Greene3. The Psy
+2026-06-04 19:05:41,771 [INFO] 🎯 Relevant [business]! Following + commenting...
+2026-06-04 19:05:41,885 [INFO] 👤 Followed creator
+2026-06-04 19:05:50,884 [WARNING] Comment box did not appear
+2026-06-04 19:05:53,709 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:05:54,517 [INFO] ✅ Reel finished
+2026-06-04 19:05:54,544 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:05:57,160 [INFO] 📄 Caption: When no one knows your plans, no one can block them.… more
+2026-06-04 19:05:57,160 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:05:57,160 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:05:57,166 [INFO] ✅ Reel finished
+2026-06-04 19:05:57,176 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:05:59,304 [INFO] 📄 Caption: Someone’s gotta pay for it 😅 Comment PRICE and I’ll send you details on your favorite.
+2026-06-04 19:05:59,304 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:05:59,305 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:05:59,307 [INFO] ✅ Reel finished
+2026-06-04 19:05:59,321 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:06:03,119 [INFO] 📄 Caption: Career 💻.....(Career,motivation,Deloitte, India, Pune, Usi, Hyderabad, life at Deloitte, Deloitte of
+2026-06-04 19:06:03,119 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:06:03,120 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:06:03,122 [INFO] ✅ Reel finished
+2026-06-04 19:06:03,127 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:06:06,232 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-04 19:06:06,232 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:06:15,681 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:06:27,468 [INFO] 📄 Caption: 1L Year is such a difficult time, please be easy on yourself, my dms are always open 🤍*****#1L #morn
+2026-06-04 19:06:27,469 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:06:27,469 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:06:27,472 [INFO] ✅ Reel finished
+2026-06-04 19:06:27,477 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:06:30,984 [INFO] 📄 Caption: One-way flight cutie 💫 #fyp #foryoupage #livingabroad #workingabroad #usa
+2026-06-04 19:06:30,984 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:06:30,984 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:06:30,987 [INFO] ✅ Reel finished
+2026-06-04 19:06:30,993 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:06:33,693 [INFO] 📄 Caption: 7 problems and how to solve them! 1. Atomic Habits — James Clear2. Mastery — Robert Greene3. The Psy
+2026-06-04 19:06:33,694 [INFO] 🎯 Relevant [business]! Following + commenting...
+2026-06-04 19:06:33,769 [INFO] 👤 Followed creator
+2026-06-04 19:06:43,403 [WARNING] Comment box did not appear
+2026-06-04 19:06:46,740 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:06:58,985 [INFO] ✅ Reel finished
+2026-06-04 19:06:59,007 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:07:01,331 [INFO] 📄 Caption: When no one knows your plans, no one can block them.… more
+2026-06-04 19:07:01,331 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:07:01,331 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:07:01,335 [INFO] ✅ Reel finished
+2026-06-04 19:07:01,343 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:07:03,660 [INFO] 📄 Caption: Someone’s gotta pay for it 😅 Comment PRICE and I’ll send you details on your favorite.
+2026-06-04 19:07:03,661 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:07:03,661 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:07:03,666 [INFO] ✅ Reel finished
+2026-06-04 19:07:03,677 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:07:05,903 [INFO] 📬 Checking DMs after 15 reels...
+2026-06-04 19:07:05,903 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:07:14,469 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:07:25,193 [INFO] 📄 Caption: Career 💻.....(Career,motivation,Deloitte, India, Pune, Usi, Hyderabad, life at Deloitte, Deloitte of
+2026-06-04 19:07:25,193 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:07:25,194 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:07:25,196 [INFO] ✅ Reel finished
+2026-06-04 19:07:25,203 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:07:27,265 [INFO] 📄 Caption: 1L Year is such a difficult time, please be easy on yourself, my dms are always open 🤍*****#1L #morn
+2026-06-04 19:07:27,266 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:07:27,266 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:07:27,269 [INFO] ✅ Reel finished
+2026-06-04 19:07:27,276 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:07:30,131 [INFO] 📄 Caption: One-way flight cutie 💫 #fyp #foryoupage #livingabroad #workingabroad #usa
+2026-06-04 19:07:30,131 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:07:30,132 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:07:30,134 [INFO] ✅ Reel finished
+2026-06-04 19:07:30,147 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:07:32,936 [INFO] 📄 Caption: 7 problems and how to solve them! 1. Atomic Habits — James Clear2. Mastery — Robert Greene3. The Psy
+2026-06-04 19:07:32,936 [INFO] 🎯 Relevant [business]! Following + commenting...
+2026-06-04 19:07:33,036 [INFO] 👤 Followed creator
+2026-06-04 19:07:42,763 [WARNING] Comment box did not appear
+2026-06-04 19:07:46,293 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:07:58,396 [INFO] ✅ Reel finished
+2026-06-04 19:07:58,426 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:08:00,562 [INFO] 📄 Caption: When no one knows your plans, no one can block them.… more
+2026-06-04 19:08:00,563 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:08:00,563 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:08:00,566 [INFO] ✅ Reel finished
+2026-06-04 19:08:00,574 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:08:04,332 [INFO] 📬 Checking DMs after 20 reels...
+2026-06-04 19:08:04,332 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:08:12,647 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:08:25,440 [INFO] 📄 Caption: Someone’s gotta pay for it 😅 Comment PRICE and I’ll send you details on your favorite.
+2026-06-04 19:08:25,441 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:08:25,441 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:08:25,444 [INFO] ✅ Reel finished
+2026-06-04 19:08:25,455 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:08:28,522 [INFO] 📄 Caption: Career 💻.....(Career,motivation,Deloitte, India, Pune, Usi, Hyderabad, life at Deloitte, Deloitte of
+2026-06-04 19:08:28,522 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:08:28,523 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:08:28,528 [INFO] ✅ Reel finished
+2026-06-04 19:08:28,537 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:08:31,029 [INFO] 📄 Caption: 1L Year is such a difficult time, please be easy on yourself, my dms are always open 🤍*****#1L #morn
+2026-06-04 19:08:31,030 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:08:31,030 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:08:31,033 [INFO] ✅ Reel finished
+2026-06-04 19:08:31,045 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:08:34,196 [INFO] 📄 Caption: One-way flight cutie 💫 #fyp #foryoupage #livingabroad #workingabroad #usa
+2026-06-04 19:08:34,197 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:08:34,197 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:08:34,200 [INFO] ✅ Reel finished
+2026-06-04 19:08:34,212 [INFO] ⬇️  Scrolled via container
+2026-06-04 19:08:36,785 [INFO] Closing browser...
+2026-06-04 19:10:35,250 [INFO] 🤖 Starting headless bot...
+2026-06-04 19:10:43,860 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 19:10:43,860 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 19:10:49,280 [INFO] 📄 Caption: Save this. Send this to yourself.✨Two years from now,I’ll be living the life I once dreamed about.#w
+2026-06-04 19:10:49,280 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:10:49,281 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:10:50,941 [INFO] ✅ Reel finished
+2026-06-04 19:10:51,075 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 19:10:53,374 [INFO] 📄 Caption: Save this. Send this to yourself.✨Two years from now,I’ll be living the life I once dreamed about.#w
+2026-06-04 19:10:53,375 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:10:53,375 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:10:56,612 [INFO] ✅ Reel finished
+2026-06-04 19:10:56,682 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 19:11:00,072 [INFO] 📄 Caption: Save this. Send this to yourself.✨Two years from now,I’ll be living the life I once dreamed about.#w
+2026-06-04 19:11:00,072 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:11:00,072 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:11:02,284 [INFO] ✅ Reel finished
+2026-06-04 19:11:02,356 [INFO] ⬇️  Scrolled via keyboard
+2026-06-04 19:11:04,577 [INFO] 📄 Caption: Save this. Send this to yourself.✨Two years from now,I’ll be living the life I once dreamed about.#w
+2026-06-04 19:11:04,577 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:11:04,577 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:11:07,152 [INFO] Closing browser...
+2026-06-04 19:11:07,438 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-06-04 19:15:32,000 [INFO] 🤖 Starting headless bot...
+2026-06-04 19:15:40,345 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 19:15:40,346 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 19:15:47,072 [INFO] 📄 Caption: Not gonna risk my life for a man.… more
+2026-06-04 19:15:47,072 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:15:47,072 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:15:55,487 [INFO] ✅ Reel finished
+2026-06-04 19:15:56,390 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:15:59,883 [INFO] 📄 Caption: Rooting for the version of me that refuses to give up on her big dreams.
+2026-06-04 19:15:59,884 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:15:59,884 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:15:59,889 [INFO] ✅ Reel finished
+2026-06-04 19:16:00,722 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:16:02,926 [INFO] 📄 Caption: Waiting for that one win.[RightTime ,OneWin ,Patience, Believe, DontGiveUp, OnMyWay] #fyp #explorepa
+2026-06-04 19:16:02,935 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:16:02,935 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:16:02,939 [INFO] ✅ Reel finished
+2026-06-04 19:16:03,773 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:16:05,910 [INFO] 📄 Caption: Rules of the game 🤷🏻‍♀️#founder #sanfrancisco #trending #startup #entrepreneurship
+2026-06-04 19:16:05,910 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 19:16:05,940 [INFO] ❤️ Liked the reel
+2026-06-04 19:16:07,803 [INFO] 👤 Followed creator
+2026-06-04 19:16:17,561 [WARNING] Comment box did not appear
+2026-06-04 19:16:20,530 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:16:20,532 [INFO] ✅ Reel finished
+2026-06-04 19:16:21,438 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:16:24,479 [INFO] 📄 Caption: Rooting for the version of me that refuses to give up on her big dreams.
+2026-06-04 19:16:24,479 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:16:24,479 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:16:24,482 [INFO] ✅ Reel finished
+2026-06-04 19:16:25,421 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:16:29,112 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 19:16:29,112 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:16:37,673 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:16:48,020 [INFO] 📄 Caption: Waiting for that one win.[RightTime ,OneWin ,Patience, Believe, DontGiveUp, OnMyWay] #fyp #explorepa
+2026-06-04 19:16:48,020 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:16:48,020 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:16:48,024 [INFO] ✅ Reel finished
+2026-06-04 19:16:49,020 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:16:51,332 [INFO] 📄 Caption: Rules of the game 🤷🏻‍♀️#founder #sanfrancisco #trending #startup #entrepreneurship
+2026-06-04 19:16:51,333 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 19:16:51,358 [INFO] ❤️ Liked the reel
+2026-06-04 19:17:30,479 [WARNING] Comment box did not appear
+2026-06-04 19:17:33,832 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:17:33,836 [INFO] ✅ Reel finished
+2026-06-04 19:17:34,852 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:17:38,549 [INFO] Closing browser...
+2026-06-04 19:20:38,793 [INFO] 🤖 Starting headless bot...
+2026-06-04 19:20:48,513 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 19:20:48,513 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 19:20:57,057 [INFO] 📄 Caption: From manifesting to living it!!✨......#manifestations #google #googleoffice #consistencywins
+2026-06-04 19:20:57,057 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:20:57,057 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:21:08,460 [INFO] ✅ Reel finished
+2026-06-04 19:21:09,137 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:21:11,891 [INFO] 📄 Caption: Keep going.........#explore #fyp #motivation #ukreels #explorepage
+2026-06-04 19:21:11,892 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:21:11,892 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:21:11,896 [INFO] ✅ Reel finished
+2026-06-04 19:21:12,927 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:21:16,112 [INFO] 📄 Caption: It’s gonna be worth putting in the hours! 👩‍🎓💻🎀#studytok #studentlifestyle #masterthesis #corporatef
+2026-06-04 19:21:16,112 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:21:16,113 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:21:16,117 [INFO] ✅ Reel finished
+2026-06-04 19:21:16,842 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:21:19,296 [INFO] 📄 Caption: Mornings look like this up here
+2026-06-04 19:21:19,297 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:21:19,297 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:21:19,299 [INFO] ✅ Reel finished
+2026-06-04 19:21:20,093 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:21:23,863 [INFO] 📄 Caption: Locked in🔒S A V E this reel to revisit later♥️...[motivation, goal setting, inspiration, key to succ
+2026-06-04 19:21:23,863 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-04 19:21:23,918 [INFO] ❤️ Liked the reel
+2026-06-04 19:21:25,932 [INFO] 👤 Followed creator
+2026-06-04 19:21:35,180 [WARNING] Comment box did not appear
+2026-06-04 19:21:37,603 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:21:37,608 [INFO] ✅ Reel finished
+2026-06-04 19:21:38,593 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:21:42,025 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 19:21:42,025 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:21:51,706 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:22:03,459 [INFO] 📄 Caption: enjoy your moment and keep going forward my lovely people. #thoughts #gay #instagram #btt #mlm… more
+2026-06-04 19:22:03,460 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:22:03,460 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:22:03,464 [INFO] ✅ Reel finished
+2026-06-04 19:22:04,359 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:22:08,248 [INFO] 📄 Caption: Everything you want is within you!✨#growth #relatable #success #motivation
+2026-06-04 19:22:08,248 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:22:08,248 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:22:08,252 [INFO] ✅ Reel finished
+2026-06-04 19:22:08,857 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:22:11,373 [INFO] 📄 Caption: Own your wins, celebrate yourselt, and never doubt your place.💪✨[corporate,9to5 ,Corporatelife,motiv
+2026-06-04 19:22:11,373 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:22:11,373 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:22:11,378 [INFO] ✅ Reel finished
+2026-06-04 19:22:11,941 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:22:15,032 [INFO] 📄 Caption: Reminder:it only takes one big win to change everything.All the losses, the doubts, the slow days… t
+2026-06-04 19:22:15,033 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:22:15,033 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:22:15,036 [INFO] ✅ Reel finished
+2026-06-04 19:22:15,641 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:22:19,261 [INFO] 📄 Caption: New desk , New role , New energy 🫠✨...#officefit #punecity
+2026-06-04 19:22:19,261 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:22:19,261 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:22:19,265 [INFO] ✅ Reel finished
+2026-06-04 19:22:20,375 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:22:23,669 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-04 19:22:23,669 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:22:31,718 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:22:42,600 [INFO] 📄 Caption: will say it always feels a little crazy in the moment. For me it’s giving up a life that I’ve build 
+2026-06-04 19:22:42,600 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:22:42,600 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:22:42,603 [INFO] ✅ Reel finished
+2026-06-04 19:22:43,473 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:22:47,417 [INFO] 📄 Caption: #wfhlife #digitalnomads #virtualassistantlife #sapavietnam🗻❄️ #workfromanywhere🌍
+2026-06-04 19:22:47,417 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:22:47,417 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:22:47,421 [INFO] ✅ Reel finished
+2026-06-04 19:22:48,207 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:22:51,850 [INFO] 📄 Caption: 🙌 @taisa.mukha #founder #startup #entrepreneurship #trending #sanfrancisco
+2026-06-04 19:22:51,850 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 19:22:51,939 [INFO] ❤️ Liked the reel
+2026-06-04 19:22:53,236 [INFO] 👤 Followed creator
+2026-06-04 19:23:02,717 [WARNING] Comment box did not appear
+2026-06-04 19:23:05,882 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:23:05,885 [INFO] ✅ Reel finished
+2026-06-04 19:23:06,905 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:23:09,850 [INFO] 📄 Caption: xx#fyp #foryou #reelst #relatable
+2026-06-04 19:23:09,851 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:23:09,851 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:23:09,854 [INFO] ✅ Reel finished
+2026-06-04 19:23:10,889 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:23:14,415 [INFO] 📄 Caption: pov: you’ve decided to go all in this time ⭐️(finance, cfa, exams, preps, study, midterm, preparatio
+2026-06-04 19:23:14,415 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-04 19:23:14,505 [INFO] ❤️ Liked the reel
+2026-06-04 19:23:16,105 [INFO] 👤 Followed creator
+2026-06-04 19:23:25,001 [WARNING] Comment box did not appear
+2026-06-04 19:23:27,503 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:23:27,509 [INFO] ✅ Reel finished
+2026-06-04 19:23:28,206 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:23:30,790 [INFO] 📬 Checking DMs after 15 reels...
+2026-06-04 19:23:30,790 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:23:39,835 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:23:50,313 [INFO] 📄 Caption: Google interviews are not about being perfect.They’re about:* Clarity of thought* Structured problem
+2026-06-04 19:23:50,313 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:23:50,314 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:23:50,316 [INFO] ✅ Reel finished
+2026-06-04 19:23:51,237 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:23:54,772 [INFO] 📄 Caption: be patient with outputs, and impatient with inputs
+2026-06-04 19:23:54,772 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:23:54,773 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:23:54,776 [INFO] ✅ Reel finished
+2026-06-04 19:23:55,403 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:23:57,782 [INFO] 📄 Caption: These 4 self-help books actually changed my life (career, mindset, productivity)I’ve read a lot of s
+2026-06-04 19:23:57,782 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:23:57,782 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:23:57,785 [INFO] ✅ Reel finished
+2026-06-04 19:23:58,736 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:24:02,346 [INFO] 📄 Caption: Furacão 2000, Nyasia · Mimosa 2000
+2026-06-04 19:24:02,346 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:24:02,347 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:24:02,350 [INFO] ✅ Reel finished
+2026-06-04 19:24:03,386 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:24:06,743 [INFO] 📄 Caption: I have zero coding skills (even today) and really struggled breaking into product roles in tech comp
+2026-06-04 19:24:06,743 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 19:24:06,852 [INFO] ❤️ Liked the reel
+2026-06-04 19:24:08,613 [INFO] 👤 Followed creator
+2026-06-04 19:24:17,958 [WARNING] Comment box did not appear
+2026-06-04 19:24:21,770 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:24:21,774 [INFO] ✅ Reel finished
+2026-06-04 19:24:22,803 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:24:25,425 [INFO] 📬 Checking DMs after 20 reels...
+2026-06-04 19:24:25,425 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:24:33,248 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:24:41,772 [INFO] Closing browser...
+2026-06-04 19:27:11,882 [INFO] 🤖 Starting headless bot...
+2026-06-04 19:27:19,695 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 19:27:19,696 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 19:27:28,335 [INFO] 📄 Caption: The Police · Every Breath You Take
+2026-06-04 19:27:28,335 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:27:28,336 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:27:31,244 [INFO] ✅ Reel finished
+2026-06-04 19:27:32,112 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:27:35,584 [INFO] 📄 Caption: Sometimes you don’t get your dream role and that’s okay. ✨Day 70 of posting daily until I hit 5K fol
+2026-06-04 19:27:35,585 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:27:35,586 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:27:35,626 [INFO] ✅ Reel finished
+2026-06-04 19:27:36,662 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:27:40,561 [INFO] 📄 Caption: doing it for me & only me ❤️‍🩹xxxxxignore💗#glowup #comeback daily mantras #health #studygram #photod
+2026-06-04 19:27:40,561 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-04 19:27:40,675 [INFO] ❤️ Liked the reel
+2026-06-04 19:27:42,671 [INFO] 👤 Followed creator
+2026-06-04 19:27:52,385 [WARNING] Comment box did not appear
+2026-06-04 19:27:54,528 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:27:54,532 [INFO] ✅ Reel finished
+2026-06-04 19:27:55,577 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:27:59,526 [INFO] 📄 Caption: surround yourself with high value people •••••••#mindset #lockedin #dailymotivation #entreprenuer #a
+2026-06-04 19:27:59,526 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:27:59,526 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:27:59,530 [INFO] ✅ Reel finished
+2026-06-04 19:28:00,311 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:28:03,620 [INFO] 📄 Caption: If you’re ambitious but lacks execution, this is for you.
+2026-06-04 19:28:03,621 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:28:03,621 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:28:03,624 [INFO] ✅ Reel finished
+2026-06-04 19:28:04,310 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:28:07,965 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 19:28:07,965 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 19:28:16,517 [INFO] 📬 Checking DMs: Requests
+2026-06-04 19:28:28,076 [INFO] 📄 Caption: @google in 2026🫶🏻🧿#lifeatgoogle #manifestation #corporategirlie #techjobs #visionboardLife at Google
+2026-06-04 19:28:28,077 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:28:28,077 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:28:28,081 [INFO] ✅ Reel finished
+2026-06-04 19:28:28,759 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:28:32,097 [INFO] 📄 Caption: Actually can’t wait to finish 🥲#studyingmotivation #studyingabroad #divawillbeback #mastersdegree #m
+2026-06-04 19:28:32,097 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 19:28:32,097 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:28:32,099 [INFO] ✅ Reel finished
+2026-06-04 19:28:32,810 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:28:35,951 [INFO] 📄 Caption: Unless it’s not your toxic ex-boyfriend ☝️@taisa.mukha#founder #startup #entrepreneurship #business
+2026-06-04 19:28:35,952 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 19:28:36,036 [INFO] ❤️ Liked the reel
+2026-06-04 19:28:44,912 [WARNING] Comment box did not appear
+2026-06-04 19:28:47,952 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:28:47,956 [INFO] ✅ Reel finished
+2026-06-04 19:28:48,875 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 19:28:49,642 [INFO] Closing browser...
+2026-06-04 19:44:39,058 [INFO] 🤖 Starting headless bot...
+2026-06-04 19:44:48,368 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 19:44:48,369 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 19:44:56,307 [INFO] 📄 Caption: comment “project” for the links!#codingproject #internship #csmajor #computerscience
+2026-06-04 19:44:56,307 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 19:44:56,610 [INFO] ❤️ Liked the reel
+2026-06-04 19:44:58,372 [INFO] 👤 Followed creator
+2026-06-04 19:45:06,907 [WARNING] Comment box did not appear
+2026-06-04 19:45:09,358 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:45:10,962 [INFO] Closing browser...
+2026-06-04 19:45:11,270 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-06-04 19:47:08,012 [INFO] 🤖 Starting headless bot...
+2026-06-04 19:47:15,425 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 19:47:15,425 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 19:47:22,290 [INFO] 📄 Caption: Deloitte Summer Internship opportunity #trending #reach #viral #college #deloitte
+2026-06-04 19:47:22,290 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 19:47:22,388 [INFO] ❤️ Liked the reel
+2026-06-04 19:47:23,702 [INFO] 👤 Followed creator
+2026-06-04 19:47:31,835 [INFO] 💬 Posted comment: Amazing content! Do you have a website with more d
+2026-06-04 19:47:36,574 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 19:47:45,834 [INFO] Closing browser...
+2026-06-04 19:47:46,125 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-06-04 20:01:53,846 [INFO] 🤖 Starting headless bot...
+2026-06-04 20:02:04,536 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 20:02:04,537 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 20:02:12,845 [INFO] 📄 Caption: Want to learn AI, build real-world projects, and earn a Microsoft certification… all in one place?Mi
+2026-06-04 20:02:12,846 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-04 20:02:13,059 [INFO] ❤️ Liked the reel
+2026-06-04 20:02:14,616 [INFO] 👤 Followed creator
+2026-06-04 20:02:21,087 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-04 20:02:27,016 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:02:33,076 [INFO] ✅ Reel finished
+2026-06-04 20:02:33,977 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:02:36,851 [INFO] 📄 Caption: John Lennon, Yoko Ono · Happy Xmas (War Is Over)
+2026-06-04 20:02:36,851 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:02:36,851 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:02:36,855 [INFO] ✅ Reel finished
+2026-06-04 20:02:37,444 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:02:41,431 [INFO] 📄 Caption: Kanye West · Ghost Town (feat. PARTYNEXTDOOR)
+2026-06-04 20:02:41,431 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:02:41,432 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:02:41,435 [INFO] ✅ Reel finished
+2026-06-04 20:02:42,192 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:02:44,968 [INFO] 📄 Caption: Comment "List" & share with female friends and family for the list Female only programs for mentorsh
+2026-06-04 20:02:44,969 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:02:45,030 [INFO] ❤️ Liked the reel
+2026-06-04 20:02:46,301 [INFO] 👤 Followed creator
+2026-06-04 20:02:53,698 [INFO] 💬 Posted comment: Thanks for sharing this! Very helpful 🙌
+2026-06-04 20:02:59,415 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:02:59,417 [INFO] ✅ Reel finished
+2026-06-04 20:03:00,409 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:03:02,981 [INFO] 📄 Caption: Comment for the full Prompt! #google #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+2026-06-04 20:03:02,981 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:03:02,981 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:03:02,986 [INFO] ✅ Reel finished
+2026-06-04 20:03:03,859 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:03:06,542 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 20:03:06,542 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:03:10,690 [ERROR] Fatal error: name 'on_response' is not defined
+2026-06-04 20:03:10,690 [INFO] Closing browser...
+2026-06-04 20:03:10,780 [INFO] Bot stopped.
+2026-06-04 20:05:23,947 [INFO] 🤖 Starting headless bot...
+2026-06-04 20:05:32,026 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 20:05:32,027 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 20:05:41,560 [INFO] 📄 Caption: Microsoft recently announced the Build AI Hackathon 🚀A great opportunity to dive deeper into AI, exp
+2026-06-04 20:05:41,560 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:05:41,560 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:05:43,995 [INFO] ✅ Reel finished
+2026-06-04 20:05:44,605 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:05:47,324 [INFO] 📄 Caption: DM for referral! 🤣....[google, mongodb,uber, navi, cisco, shell, jpmorgan,bcg, atlassian, oracle, np
+2026-06-04 20:05:47,324 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 20:05:47,398 [INFO] ❤️ Liked the reel
+2026-06-04 20:05:48,578 [INFO] 👤 Followed creator
+2026-06-04 20:05:54,958 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-04 20:06:00,151 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:06:00,156 [INFO] ✅ Reel finished
+2026-06-04 20:06:00,836 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:06:03,484 [INFO] 📄 Caption: Posting this at 2am so you don’t miss this Microsoft internship!Follow and comment “Microsoft” to ge
+2026-06-04 20:06:03,494 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:06:03,551 [INFO] ❤️ Liked the reel
+2026-06-04 20:06:05,180 [INFO] 👤 Followed creator
+2026-06-04 20:06:12,065 [INFO] 💬 Posted comment: This is exactly what I've been looking for!
+2026-06-04 20:06:17,095 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:06:17,097 [INFO] ✅ Reel finished
+2026-06-04 20:06:17,868 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:06:20,745 [INFO] 📄 Caption: 19yo Intern at Jio⭐️🧿..#foryou #intern #student #life #engineering
+2026-06-04 20:06:20,746 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:06:20,797 [INFO] ❤️ Liked the reel
+2026-06-04 20:06:22,079 [INFO] 👤 Followed creator
+2026-06-04 20:06:28,813 [INFO] 💬 Posted comment: I've been trying to get into this space. Any tips?
+2026-06-04 20:06:34,076 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:06:34,078 [INFO] ✅ Reel finished
+2026-06-04 20:06:34,835 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:06:37,972 [INFO] 📄 Caption: So grateful for my new opportunity!🙏✨Believe with your whole heart, take aligned action, and show up
+2026-06-04 20:06:37,972 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:06:37,972 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:06:37,976 [INFO] ✅ Reel finished
+2026-06-04 20:06:38,885 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:06:40,922 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 20:06:40,922 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:06:49,446 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:07:02,164 [INFO] 📄 Caption: Ankit Tiwari · Galliyan
+2026-06-04 20:07:02,165 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:07:02,165 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:07:02,170 [INFO] ✅ Reel finished
+2026-06-04 20:07:02,816 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:07:05,771 [INFO] 📄 Caption: that's one way to do it 😂
+2026-06-04 20:07:05,772 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:07:05,772 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:07:05,774 [INFO] ✅ Reel finished
+2026-06-04 20:07:06,449 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:07:10,430 [INFO] 📄 Caption: Want to work at Deloitte as a fresher with zero experience? These 3 free virtual internships are you
+2026-06-04 20:07:10,430 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:07:10,494 [INFO] ❤️ Liked the reel
+2026-06-04 20:07:12,122 [INFO] 👤 Followed creator
+2026-06-04 20:07:19,553 [INFO] 💬 Posted comment: Amazing content! Do you have a website with more d
+2026-06-04 20:07:25,335 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:07:25,338 [INFO] ✅ Reel finished
+2026-06-04 20:07:26,351 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:07:30,198 [INFO] 📄 Caption: Comment roadmap and I’ll send you the plan Follow @arushiexploress for more 🌻💗.....[Corporate life, 
+2026-06-04 20:07:30,199 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 20:07:30,248 [INFO] ❤️ Liked the reel
+2026-06-04 20:07:31,886 [INFO] 👤 Followed creator
+2026-06-04 20:07:38,330 [INFO] 💬 Posted comment: Thanks for sharing this! Very helpful 🙌
+2026-06-04 20:07:44,327 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:07:44,329 [INFO] ✅ Reel finished
+2026-06-04 20:07:44,931 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:07:47,885 [INFO] 📄 Caption: Deadline: 5th June ‼️Save this Reel so that you can come back to it again! 🔥....Keywords: [ Google, 
+2026-06-04 20:07:47,886 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:07:47,939 [INFO] ❤️ Liked the reel
+2026-06-04 20:07:49,759 [INFO] 👤 Followed creator
+2026-06-04 20:07:56,436 [INFO] 💬 Posted comment: Thanks for sharing this! Very helpful 🙌
+2026-06-04 20:08:03,313 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:08:03,319 [INFO] ✅ Reel finished
+2026-06-04 20:08:03,965 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:08:07,691 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-04 20:08:07,691 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:08:16,870 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:08:28,214 [INFO] 📄 Caption: Comment “Summer” to get the link to the entire list of 2026 Internships. .... [ Wipro internship, H&
+2026-06-04 20:08:28,215 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:08:28,358 [INFO] ❤️ Liked the reel
+2026-06-04 20:08:29,896 [INFO] 👤 Followed creator
+2026-06-04 20:08:36,061 [INFO] 💬 Posted comment: This is exactly what I've been looking for!
+2026-06-04 20:08:40,928 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:08:40,934 [INFO] ✅ Reel finished
+2026-06-04 20:08:41,846 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:08:43,970 [INFO] 📄 Caption: Living the dream! My 9-to-5 at JP Morgan Chase is everything I dreamed of 🙌🙌Stay focused, put in the
+2026-06-04 20:08:43,970 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-04 20:08:44,041 [INFO] ❤️ Liked the reel
+2026-06-04 20:08:45,202 [INFO] 👤 Followed creator
+2026-06-04 20:08:45,730 [INFO] Closing browser...
+2026-06-04 20:11:36,887 [INFO] 🤖 Starting headless bot...
+2026-06-04 20:11:42,951 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 20:11:42,952 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 20:11:52,183 [INFO] 📄 Caption: [Day 45/45] Comment ‘LINK’ to get the resources in your DM🧿❤️....{ fyp viral trending job explorepag
+2026-06-04 20:11:52,185 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:11:52,185 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:11:54,974 [INFO] ✅ Reel finished
+2026-06-04 20:11:55,588 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:11:57,659 [INFO] 📄 Caption: Deadline: 31st March ‼️Deloitte Virtual Internships. All internships are legit and are designed by D
+2026-06-04 20:11:57,660 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:11:57,737 [INFO] ❤️ Liked the reel
+2026-06-04 20:11:59,261 [INFO] 👤 Followed creator
+2026-06-04 20:12:06,521 [INFO] 💬 Posted comment: This is exactly what I've been looking for!
+2026-06-04 20:12:11,602 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:12:11,607 [INFO] ✅ Reel finished
+2026-06-04 20:12:12,605 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:12:15,284 [INFO] 📄 Caption: comment “project” and i’ll send the links!!#computerscience #csmajor #internship #codingprojects
+2026-06-04 20:12:15,285 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:12:15,351 [INFO] ❤️ Liked the reel
+2026-06-04 20:12:22,600 [INFO] 💬 Posted comment: This is exactly what I've been looking for!
+2026-06-04 20:12:28,249 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:12:28,252 [INFO] ✅ Reel finished
+2026-06-04 20:12:29,171 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:12:32,691 [INFO] 📄 Caption: Share your resume in dm📩#officelife #reelkarofeelkaro #virelreels #reelinstagram #treding
+2026-06-04 20:12:32,691 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:12:32,692 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:12:32,695 [INFO] ✅ Reel finished
+2026-06-04 20:12:33,587 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:12:36,425 [INFO] 📄 Caption: Follow & Comment “referral”..#jobopportunity #hiring #referral #cognizant #corporate
+2026-06-04 20:12:36,425 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:12:36,425 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:12:36,429 [INFO] ✅ Reel finished
+2026-06-04 20:12:37,320 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:12:39,478 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 20:12:39,478 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:12:46,364 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:12:56,574 [INFO] 📄 Caption: A sneak peek into the new joinee experience at WBD.#wbdlife
+2026-06-04 20:12:56,575 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:12:56,575 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:12:56,578 [INFO] ✅ Reel finished
+2026-06-04 20:12:57,203 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:13:00,352 [INFO] 📄 Caption: *more like 9 to 5 ft Bangalore traffic 🥲 (9 to 5, UX designer, tech jobs, corporate girl, day in my 
+2026-06-04 20:13:00,352 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 20:13:00,425 [INFO] ❤️ Liked the reel
+2026-06-04 20:13:01,779 [INFO] 👤 Followed creator
+2026-06-04 20:13:08,934 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-04 20:13:13,865 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:13:13,885 [INFO] ✅ Reel finished
+2026-06-04 20:13:14,519 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:13:16,623 [INFO] 📄 Caption: Spend a friday with me at google ...(google india, software engineer, tech, women in tech, google ba
+2026-06-04 20:13:16,623 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:13:16,623 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:13:16,628 [INFO] ✅ Reel finished
+2026-06-04 20:13:17,385 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:13:20,973 [INFO] 📄 Caption: No internship? You’re not out of the race.Most people think placements are only about past experienc
+2026-06-04 20:13:20,973 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:13:21,050 [INFO] ❤️ Liked the reel
+2026-06-04 20:13:28,231 [INFO] 💬 Posted comment: This is gold! Saved for later 📌
+2026-06-04 20:13:32,897 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:13:32,900 [INFO] ✅ Reel finished
+2026-06-04 20:13:33,584 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:13:37,556 [INFO] 📄 Caption: To the new beginnings..🧿✨....#office #corporate #punecity #corporatefit #officelife
+2026-06-04 20:13:37,557 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:13:37,557 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:13:37,559 [INFO] ✅ Reel finished
+2026-06-04 20:13:38,375 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:13:42,268 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-04 20:13:42,268 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:13:50,890 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:14:00,590 [INFO] 📄 Caption: Day at work 🤓#amazon #softwareengineer #diml #workday #minivlog
+2026-06-04 20:14:00,590 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:14:00,590 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:14:00,593 [INFO] ✅ Reel finished
+2026-06-04 20:14:01,233 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:14:05,179 [INFO] 📄 Caption: Amazon software development engineer online assessment #amazon #sde
+2026-06-04 20:14:05,180 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:14:05,180 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:14:05,187 [INFO] ✅ Reel finished
+2026-06-04 20:14:05,801 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:14:08,225 [INFO] 📄 Caption: Comment “Prompt” to get your LinkedIn Optimised & Recruiter Proof✅Try this out today it will work fo
+2026-06-04 20:14:08,227 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:14:08,227 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:14:08,230 [INFO] ✅ Reel finished
+2026-06-04 20:14:08,950 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:14:12,187 [INFO] 📄 Caption: Sutherland fresher hiring 🔥comment “link” for details 🙌[jobs , career , college , placements, interv
+2026-06-04 20:14:12,187 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:14:12,188 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:14:12,190 [INFO] ✅ Reel finished
+2026-06-04 20:14:12,773 [INFO] Closing browser...
+2026-06-04 20:21:56,117 [INFO] 🤖 Starting headless bot...
+2026-06-04 20:22:03,464 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 20:22:03,464 [INFO] ✅ Logged in! Navigating to Reels...
+2026-06-04 20:22:09,357 [INFO] 📄 Caption: dm “guide” and i’ll send you the full pdf with everything broken down step by step. is how i landed 
+2026-06-04 20:22:09,357 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:22:09,461 [INFO] ❤️ Liked the reel
+2026-06-04 20:22:11,067 [INFO] 👤 Followed creator
+2026-06-04 20:22:17,607 [INFO] 💬 Posted comment: How do I get started with this?
+2026-06-04 20:22:22,177 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:22:30,639 [INFO] ✅ Reel finished
+2026-06-04 20:22:31,280 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:22:35,017 [INFO] 📄 Caption: Gravitix Tech Solutions is hiring for Data Analyst Freshers Link : https://gravitixtechsolutions.zoh
+2026-06-04 20:22:35,017 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:22:35,019 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:22:35,022 [INFO] ✅ Reel finished
+2026-06-04 20:22:35,780 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:22:38,463 [INFO] 📄 Caption: Comment “Google” and I’ll send the complete details and registration link in your DM 📩Registrations 
+2026-06-04 20:22:38,464 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:22:38,464 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:22:38,467 [INFO] ✅ Reel finished
+2026-06-04 20:22:39,163 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:22:41,981 [INFO] 📄 Caption: POV: You just joined JPMCSome of these were expected.One definitely wasn’t. 👀Can you guess which one
+2026-06-04 20:22:41,981 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:22:41,981 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:22:41,985 [INFO] ✅ Reel finished
+2026-06-04 20:22:42,763 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:22:45,714 [INFO] 📄 Caption: If you’re someone who’s looking to Break into Finance, just visit my profile once and then decide if
+2026-06-04 20:22:45,714 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-04 20:22:45,796 [INFO] ❤️ Liked the reel
+2026-06-04 20:22:47,787 [INFO] 👤 Followed creator
+2026-06-04 20:22:55,518 [INFO] 💬 Posted comment: Great info! Where can I learn more about this? 🔥
+2026-06-04 20:23:01,059 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:23:01,065 [INFO] ✅ Reel finished
+2026-06-04 20:23:01,813 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:23:05,307 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 20:23:05,307 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:23:12,547 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:23:24,738 [INFO] 📄 Caption: pov: day in my life as a 20-something intern 💻🎧🎀........(day in my life, intern life, internship, co
+2026-06-04 20:23:24,739 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:23:24,833 [INFO] ❤️ Liked the reel
+2026-06-04 20:23:26,883 [INFO] 👤 Followed creator
+2026-06-04 20:23:34,018 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-04 20:23:39,523 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:23:39,525 [INFO] ✅ Reel finished
+2026-06-04 20:23:40,512 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:23:43,985 [INFO] 📄 Caption: Lady Gaga · Telephone (feat. Beyoncé)
+2026-06-04 20:23:43,985 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:23:43,985 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:23:43,989 [INFO] ✅ Reel finished
+2026-06-04 20:23:44,579 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:23:48,084 [INFO] 📄 Caption: You need to apply these 2 @linkedin_in hacks now to get hired!...(get hired, LinkedIn hacks and tips
+2026-06-04 20:23:48,084 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:23:48,084 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:23:48,087 [INFO] ✅ Reel finished
+2026-06-04 20:23:48,978 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:23:52,631 [INFO] 📄 Caption: Edit : Thankyou for the overwhelming response. Will have to close referrals for now. Will create ano
+2026-06-04 20:23:52,632 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:23:52,632 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:23:52,635 [INFO] ✅ Reel finished
+2026-06-04 20:23:53,227 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:23:56,087 [INFO] 📄 Caption: Mini vlog - 1/6/26 First Day at my internship 🪬✨#explorepage #fypシ #trendingreels #officelife #inter
+2026-06-04 20:23:56,088 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:23:56,202 [INFO] ❤️ Liked the reel
+2026-06-04 20:23:57,635 [INFO] 👤 Followed creator
+2026-06-04 20:24:04,302 [INFO] 💬 Posted comment: Great info! Where can I learn more about this? 🔥
+2026-06-04 20:24:10,835 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:24:10,839 [INFO] ✅ Reel finished
+2026-06-04 20:24:11,849 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:24:14,567 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-04 20:24:14,567 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:24:22,262 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:24:32,389 [INFO] 📄 Caption: System Design Roadmap for Beginners❤️I wish I had this roadmap, when I was starting off and had no c
+2026-06-04 20:24:32,389 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:24:32,389 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:24:32,395 [INFO] ✅ Reel finished
+2026-06-04 20:24:33,375 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:24:35,689 [INFO] 📄 Caption: Goodies from Google 🎁💐[Google, goodies, lifestyle, fun, gifts, work, lifeatgoogle, googliness]#goolg
+2026-06-04 20:24:35,690 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:24:35,690 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:24:35,696 [INFO] ✅ Reel finished
+2026-06-04 20:24:36,542 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:24:40,065 [INFO] 📄 Caption: Workday at Amazon👩‍💻
+2026-06-04 20:24:40,065 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:24:40,065 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:24:40,069 [INFO] ✅ Reel finished
+2026-06-04 20:24:41,038 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:24:43,556 [INFO] 📄 Caption: Follow me and comment “refer”(Job opportunity, corporate life, intern life, college student, intern 
+2026-06-04 20:24:43,557 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:24:43,786 [INFO] ❤️ Liked the reel
+2026-06-04 20:24:45,780 [INFO] 👤 Followed creator
+2026-06-04 20:24:53,477 [INFO] 💬 Posted comment: Thanks for sharing this! Very helpful 🙌
+2026-06-04 20:24:59,505 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:24:59,514 [INFO] ✅ Reel finished
+2026-06-04 20:25:00,191 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:25:02,707 [INFO] 📄 Caption: being nonchalant about your dreams is overrated.if you want something, go after it.will it work out?
+2026-06-04 20:25:02,708 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 20:25:02,833 [INFO] ❤️ Liked the reel
+2026-06-04 20:25:04,101 [INFO] 👤 Followed creator
+2026-06-04 20:25:11,492 [INFO] 💬 Posted comment: Great info! Where can I learn more about this? 🔥
+2026-06-04 20:25:15,867 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:25:15,870 [INFO] ✅ Reel finished
+2026-06-04 20:25:16,773 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:25:20,178 [INFO] 📬 Checking DMs after 15 reels...
+2026-06-04 20:25:20,178 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:25:29,634 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:25:42,271 [INFO] 📄 Caption: Sharing my resume with y’all. I’d soon setup a GMeet session where we’d discuss it in more detail🙌#r
+2026-06-04 20:25:42,271 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:25:42,271 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:25:42,280 [INFO] ✅ Reel finished
+2026-06-04 20:25:42,972 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:25:45,078 [INFO] 📄 Caption: Comment “notes” for sql notes pdf link. (Fresher, data analyst, interview, crack mncs, big tech, bus
+2026-06-04 20:25:45,078 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:25:45,234 [INFO] ❤️ Liked the reel
+2026-06-04 20:25:46,683 [INFO] 👤 Followed creator
+2026-06-04 20:25:54,283 [INFO] 💬 Posted comment: I've been trying to get into this space. Any tips?
+2026-06-04 20:25:58,988 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:25:58,996 [INFO] ✅ Reel finished
+2026-06-04 20:25:59,820 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:26:02,798 [INFO] 📄 Caption: Steps to follow 1. Follow me ✅2. Fill the form in my bio and comment on the reel ‘Referral’3. Start 
+2026-06-04 20:26:02,798 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:26:02,798 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:26:02,802 [INFO] ✅ Reel finished
+2026-06-04 20:26:03,372 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:26:06,569 [INFO] 📄 Caption: looking for a social media manager? let’s talk.(lifestyle, quit job, storytelling, brands, agencies,
+2026-06-04 20:26:06,569 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 20:26:06,704 [INFO] ❤️ Liked the reel
+2026-06-04 20:26:08,120 [INFO] 👤 Followed creator
+2026-06-04 20:26:15,544 [INFO] 💬 Posted comment: I've been trying to get into this space. Any tips?
+2026-06-04 20:26:20,902 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:26:20,909 [INFO] ✅ Reel finished
+2026-06-04 20:26:21,788 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:26:25,618 [INFO] 📄 Caption: Got hundreds of DMs asking the same question: "How did you get into JPMorgan Chase?" 👀So instead of 
+2026-06-04 20:26:25,619 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:26:25,619 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:26:25,626 [INFO] ✅ Reel finished
+2026-06-04 20:26:26,373 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:26:30,202 [INFO] 📬 Checking DMs after 20 reels...
+2026-06-04 20:26:30,202 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:26:38,876 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:26:47,784 [INFO] 📄 Caption: Follow along the 30-Day series to understand everything about finance 💗🫶🏻#finance #learnfinance #car
+2026-06-04 20:26:47,784 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:26:47,784 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:26:47,789 [INFO] ✅ Reel finished
+2026-06-04 20:26:48,470 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:26:48,929 [INFO] Closing browser...
+2026-06-04 20:31:35,811 [INFO] 🤖 Starting headless bot...
+2026-06-04 20:31:44,342 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-04 20:31:44,342 [INFO] ✅ Logged in!
+2026-06-04 20:31:44,342 [INFO] 🧪 TESTING OVERRIDE: Checking DMs immediately...
+2026-06-04 20:31:44,342 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:31:52,875 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:32:00,817 [INFO] ✅ Finished checking DMs.
+2026-06-04 20:32:00,817 [INFO] Navigating to Reels...
+2026-06-04 20:32:07,557 [INFO] 📄 Caption: Microsoft (India) [March - July]Role: Tech / PM / Design InternStipend: 70,000 - 1,20,000 / monthTim
+2026-06-04 20:32:07,557 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:32:07,648 [INFO] ❤️ Liked the reel
+2026-06-04 20:32:08,913 [INFO] 👤 Followed creator
+2026-06-04 20:32:15,544 [INFO] 💬 Posted comment: Great info! Where can I learn more about this? 🔥
+2026-06-04 20:32:20,360 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:32:21,670 [INFO] ✅ Reel finished
+2026-06-04 20:32:22,240 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:32:24,249 [INFO] 📄 Caption: Follow and comment “Del” to get it for free...#deloitte #jobs #hiring
+2026-06-04 20:32:24,249 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:32:24,249 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:32:24,253 [INFO] ✅ Reel finished
+2026-06-04 20:32:24,972 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:32:28,727 [INFO] 📄 Caption: Start menifesting ✨️#amazon #manifestation #dreambig #fyp #explorepage
+2026-06-04 20:32:28,727 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:32:28,727 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:32:28,730 [INFO] ✅ Reel finished
+2026-06-04 20:32:29,555 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:32:32,312 [INFO] 📄 Caption: Deadline: 30th June‼️Save & share this reel to me & Comment “TATA” to get the link. Keywords: [ Goog
+2026-06-04 20:32:32,313 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-04 20:32:32,396 [INFO] ❤️ Liked the reel
+2026-06-04 20:32:33,904 [INFO] 👤 Followed creator
+2026-06-04 20:32:41,335 [INFO] 💬 Posted comment: This is exactly what I've been looking for!
+2026-06-04 20:32:47,054 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:32:47,058 [INFO] ✅ Reel finished
+2026-06-04 20:32:47,755 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:32:50,561 [INFO] 📄 Caption: Plsgivemeajobibeg #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp #viral #
+2026-06-04 20:32:50,561 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:32:50,561 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:32:50,564 [INFO] ✅ Reel finished
+2026-06-04 20:32:51,338 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:32:53,423 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-04 20:32:53,423 [INFO] 📬 Checking DMs: Inbox
+2026-06-04 20:33:01,093 [INFO] 📬 Checking DMs: Requests
+2026-06-04 20:33:12,743 [INFO] 📄 Caption: adding this to the long list of reasons i love working at nvidia 💚curious about working at nvidia? a
+2026-06-04 20:33:12,743 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:33:12,744 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:33:12,748 [INFO] ✅ Reel finished
+2026-06-04 20:33:13,520 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:33:16,580 [INFO] 📄 Caption: Building a career in a pretty workspace🫶🏻🫶🏻..........(BNY Mellon Pune diaries, corporate life, offic
+2026-06-04 20:33:16,580 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:33:16,580 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:33:16,584 [INFO] ✅ Reel finished
+2026-06-04 20:33:17,554 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:33:20,045 [INFO] 📄 Caption: newest product designer at msft 👩🏻‍💻🩷concept inspired by @hemanohwal #firstday #design #microsoftind
+2026-06-04 20:33:20,045 [INFO] ⏭️  Not relevant, skipping
+2026-06-04 20:33:20,045 [INFO] ⏳ Waiting for reel to finish...
+2026-06-04 20:33:20,049 [INFO] ✅ Reel finished
+2026-06-04 20:33:20,887 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-04 20:33:23,009 [INFO] 📄 Caption: it has been a while… so wanted to reintroduce myself 💌#technology #creative #nycfounder
+2026-06-04 20:33:23,009 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-04 20:33:23,088 [INFO] ❤️ Liked the reel
+2026-06-04 20:33:24,301 [INFO] 👤 Followed creator
+2026-06-04 20:33:31,325 [INFO] 💬 Posted comment: Great info! Where can I learn more about this? 🔥
+2026-06-04 20:33:31,758 [INFO] Closing browser...
+2026-06-05 02:08:48,442 [INFO] 🤖 Starting headless bot...
+2026-06-05 02:08:56,493 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-05 02:08:56,493 [INFO] ✅ Logged in!
+2026-06-05 02:08:56,493 [INFO] 🧪 TESTING OVERRIDE: Checking DMs immediately...
+2026-06-05 02:08:56,495 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:09:01,609 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:09:04,464 [INFO] 💾 Saved chat HTML to debug_chat_0.html for debugging
+2026-06-05 02:09:04,487 [INFO] 👆 Attempting to click bot button: 'm97017113down chevron icon'
+2026-06-05 02:09:12,501 [INFO] 💾 Saved chat HTML to debug_chat_1.html for debugging
+2026-06-05 02:09:12,519 [INFO] 👆 Attempting to click bot button: 'm97017113down chevron icon'
+2026-06-05 02:09:20,780 [INFO] 💾 Saved chat HTML to debug_chat_2.html for debugging
+2026-06-05 02:09:20,803 [INFO] 👆 Attempting to click bot button: 'm97017113down chevron icon'
+2026-06-05 02:11:11,494 [INFO] 🤖 Starting headless bot...
+2026-06-05 02:11:18,862 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-05 02:11:18,862 [INFO] ✅ Logged in!
+2026-06-05 02:11:18,862 [INFO] 🧪 TESTING OVERRIDE: Checking DMs immediately...
+2026-06-05 02:11:18,862 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:11:25,144 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:11:28,990 [INFO] 🔗 Found links via X-Ray: ['http://stecu.short.gy/zqp5ir/', 'http://tinyurl.com/3hakpctd', 'https://sn.tg-need.com/EaXp6M', 'https://facebook.csod.com/', 'http://stecu.short.gy/zqp5ir', 'https://tinyurl.com/3hakpctd', 'https://tinyurl.com/z47xusj/', 'http://tinyurl.com/mpu3p59x', 'https://tinyurl.com/mpu3p59x', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/empty/?v=86&pv=in&locale=hi_IN', 'https://tinyurl.com/z47xusj', 'https://www.youtube.com/watch?v=6xt7nTuO85A', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/grayscale/?v=86&pv=in&locale=hi_IN', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/satellite/?v=86&pv=in&locale=hi_IN', 'https://www.facebook.com/ig_xsite_user_info/', 'http://tinyurl.com/z47xusj', 'https://tinyurl.com/csvjk5sx/', 'https://www.youtube.com/watch?v=f1J38FlDKxo', 'https://tinyurl.com/3hakpctd/', 'https://fb.zoom.us/', 'https://sinarabadi.xyz/M01McZ', 'https://stecu.short.gy/zqp5ir/', 'https://tinyurl.com/csvjk5sx', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/symptom_survey/?v=86&pv=in&locale=hi_IN', 'https://sn.tg-need.com/EaXp6M/', 'https://bluejeans.com/premium-numbers', 'http://sn.tg-need.com/EaXp6M', 'https://instagram.fdel27-6.fna.fbcdn.net/v/t51.82787-19/649221510_17879257539500362_1638986488024831119_n.jpg?stp=dst-jpg_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&amp;_nc_ht=instagram.fdel27-6.fna.fbcdn.net&amp;_nc_cat=1&amp;_nc_oc=Q6cZ2gG4aMjlfAEY5n4OMCZ14lo92mQCcyCIf5geI7EzQx2HHWfGHIFzMI7ajSHEjY9BsdKCAP9k2jKzoy19W_yQ8FXB&amp;_nc_ohc=HA5u8eisNTcQ7kNvwH4rKLK&amp;_nc_gid=lwyGLhydkiFtnRGVoOApGg&amp;edm=AONqaaQBAAAA&amp;ccb=7-5&amp;oh=00_Af9oxKThFoxtbEHMYUYddlzWjo4w8BUkrKet4nB4aFk0VQ&amp;oe=6A279971&amp;_nc_sid=4e3341', 'https://www.facebook.com/instagram/login_sync/', 'http://tinyurl.com/csvjk5sx', 'http://sinarabadi.xyz/M01McZ', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/default_3d/?v=86&pv=in&locale=hi_IN', 'https://tinyurl.com/mpu3p59x/', 'https://www.facebook.com/help/787040499275067', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/dark/?v=86&pv=in&locale=hi_IN', 'https://www.facebook.com/help/contact/419859403337390', 'https://edge-chat.facebook.com/mqtt/pull', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/canterbury_1_0/?v=86&pv=in&locale=hi_IN', 'https://sinarabadi.xyz/M01McZ/', 'https://stecu.short.gy/zqp5ir', 'https://www.facebook.com/help/2579891418969617']
+2026-06-05 02:11:32,843 [INFO] 🔗 Found links via X-Ray: ['http://stecu.short.gy/zqp5ir/', 'http://tinyurl.com/3hakpctd', 'https://sn.tg-need.com/EaXp6M', 'https://facebook.csod.com/', 'http://stecu.short.gy/zqp5ir', 'https://tinyurl.com/3hakpctd', 'https://tinyurl.com/z47xusj/', 'http://tinyurl.com/mpu3p59x', 'https://tinyurl.com/mpu3p59x', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/empty/?v=86&pv=in&locale=hi_IN', 'https://tinyurl.com/z47xusj', 'https://www.youtube.com/watch?v=6xt7nTuO85A', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/grayscale/?v=86&pv=in&locale=hi_IN', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/satellite/?v=86&pv=in&locale=hi_IN', 'https://www.facebook.com/ig_xsite_user_info/', 'http://tinyurl.com/z47xusj', 'https://tinyurl.com/csvjk5sx/', 'https://www.youtube.com/watch?v=f1J38FlDKxo', 'https://tinyurl.com/3hakpctd/', 'https://fb.zoom.us/', 'https://sinarabadi.xyz/M01McZ', 'https://stecu.short.gy/zqp5ir/', 'https://tinyurl.com/csvjk5sx', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/symptom_survey/?v=86&pv=in&locale=hi_IN', 'https://sn.tg-need.com/EaXp6M/', 'https://bluejeans.com/premium-numbers', 'http://sn.tg-need.com/EaXp6M', 'https://www.facebook.com/instagram/login_sync/', 'http://tinyurl.com/csvjk5sx', 'http://sinarabadi.xyz/M01McZ', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/default_3d/?v=86&pv=in&locale=hi_IN', 'https://tinyurl.com/mpu3p59x/', 'https://www.facebook.com/help/787040499275067', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/dark/?v=86&pv=in&locale=hi_IN', 'https://www.facebook.com/help/contact/419859403337390', 'https://edge-chat.facebook.com/mqtt/pull', 'https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/canterbury_1_0/?v=86&pv=in&locale=hi_IN', 'https://sinarabadi.xyz/M01McZ/', 'https://stecu.short.gy/zqp5ir', 'https://www.facebook.com/help/2579891418969617']
+2026-06-05 02:11:36,235 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:11:41,703 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:11:45,584 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:45,587 [INFO] ✅ Saved to Supabase: http://stecu.short.gy/zqp5ir/
+2026-06-05 02:11:45,746 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:45,747 [INFO] ✅ Saved to Supabase: http://tinyurl.com/3hakpctd
+2026-06-05 02:11:45,905 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:45,905 [INFO] ✅ Saved to Supabase: https://sn.tg-need.com/EaXp6M
+2026-06-05 02:11:46,058 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:46,060 [INFO] ✅ Saved to Supabase: https://facebook.csod.com/
+2026-06-05 02:11:46,216 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:46,216 [INFO] ✅ Saved to Supabase: http://stecu.short.gy/zqp5ir
+2026-06-05 02:11:46,370 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:46,371 [INFO] ✅ Saved to Supabase: https://tinyurl.com/3hakpctd
+2026-06-05 02:11:46,524 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:46,524 [INFO] ✅ Saved to Supabase: https://tinyurl.com/z47xusj/
+2026-06-05 02:11:46,683 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:46,683 [INFO] ✅ Saved to Supabase: http://tinyurl.com/mpu3p59x
+2026-06-05 02:11:46,840 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:46,840 [INFO] ✅ Saved to Supabase: https://tinyurl.com/mpu3p59x
+2026-06-05 02:11:46,994 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:46,994 [INFO] ✅ Saved to Supabase: https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/empty/?v=86&pv=in&locale=hi_IN
+2026-06-05 02:11:47,150 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:47,150 [INFO] ✅ Saved to Supabase: https://tinyurl.com/z47xusj
+2026-06-05 02:11:47,308 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:47,310 [INFO] ✅ Saved to Supabase: https://www.youtube.com/watch?v=6xt7nTuO85A
+2026-06-05 02:11:47,462 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:47,462 [INFO] ✅ Saved to Supabase: https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/grayscale/?v=86&pv=in&locale=hi_IN
+2026-06-05 02:11:47,619 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:47,619 [INFO] ✅ Saved to Supabase: https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/satellite/?v=86&pv=in&locale=hi_IN
+2026-06-05 02:11:47,821 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:47,821 [INFO] ✅ Saved to Supabase: https://www.facebook.com/ig_xsite_user_info/
+2026-06-05 02:11:47,983 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:47,983 [INFO] ✅ Saved to Supabase: http://tinyurl.com/z47xusj
+2026-06-05 02:11:48,139 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:48,140 [INFO] ✅ Saved to Supabase: https://tinyurl.com/csvjk5sx/
+2026-06-05 02:11:48,329 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:48,329 [INFO] ✅ Saved to Supabase: https://www.youtube.com/watch?v=f1J38FlDKxo
+2026-06-05 02:11:48,523 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:48,523 [INFO] ✅ Saved to Supabase: https://tinyurl.com/3hakpctd/
+2026-06-05 02:11:48,679 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:48,680 [INFO] ✅ Saved to Supabase: https://fb.zoom.us/
+2026-06-05 02:11:48,834 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:48,836 [INFO] ✅ Saved to Supabase: https://sinarabadi.xyz/M01McZ
+2026-06-05 02:11:49,036 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:49,037 [INFO] ✅ Saved to Supabase: https://stecu.short.gy/zqp5ir/
+2026-06-05 02:11:49,202 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:49,203 [INFO] ✅ Saved to Supabase: https://tinyurl.com/csvjk5sx
+2026-06-05 02:11:49,416 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:49,417 [INFO] ✅ Saved to Supabase: https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/symptom_survey/?v=86&pv=in&locale=hi_IN
+2026-06-05 02:11:49,571 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:49,572 [INFO] ✅ Saved to Supabase: https://sn.tg-need.com/EaXp6M/
+2026-06-05 02:11:49,728 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:49,728 [INFO] ✅ Saved to Supabase: https://bluejeans.com/premium-numbers
+2026-06-05 02:11:49,879 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:49,880 [INFO] ✅ Saved to Supabase: http://sn.tg-need.com/EaXp6M
+2026-06-05 02:11:50,034 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:50,034 [INFO] ✅ Saved to Supabase: https://instagram.fdel27-6.fna.fbcdn.net/v/t51.82787-19/649221510_17879257539500362_1638986488024831119_n.jpg?stp=dst-jpg_s150x150_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&amp;_nc_ht=instagram.fdel27-6.fna.fbcdn.net&amp;_nc_cat=1&amp;_nc_oc=Q6cZ2gG4aMjlfAEY5n4OMCZ14lo92mQCcyCIf5geI7EzQx2HHWfGHIFzMI7ajSHEjY9BsdKCAP9k2jKzoy19W_yQ8FXB&amp;_nc_ohc=HA5u8eisNTcQ7kNvwH4rKLK&amp;_nc_gid=lwyGLhydkiFtnRGVoOApGg&amp;edm=AONqaaQBAAAA&amp;ccb=7-5&amp;oh=00_Af9oxKThFoxtbEHMYUYddlzWjo4w8BUkrKet4nB4aFk0VQ&amp;oe=6A279971&amp;_nc_sid=4e3341
+2026-06-05 02:11:50,186 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:50,187 [INFO] ✅ Saved to Supabase: https://www.facebook.com/instagram/login_sync/
+2026-06-05 02:11:50,338 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:50,339 [INFO] ✅ Saved to Supabase: http://tinyurl.com/csvjk5sx
+2026-06-05 02:11:50,494 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:50,495 [INFO] ✅ Saved to Supabase: http://sinarabadi.xyz/M01McZ
+2026-06-05 02:11:50,652 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:50,653 [INFO] ✅ Saved to Supabase: https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/default_3d/?v=86&pv=in&locale=hi_IN
+2026-06-05 02:11:50,805 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:50,806 [INFO] ✅ Saved to Supabase: https://tinyurl.com/mpu3p59x/
+2026-06-05 02:11:50,957 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:50,958 [INFO] ✅ Saved to Supabase: https://www.facebook.com/help/787040499275067
+2026-06-05 02:11:51,113 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:51,114 [INFO] ✅ Saved to Supabase: https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/dark/?v=86&pv=in&locale=hi_IN
+2026-06-05 02:11:51,268 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:51,270 [INFO] ✅ Saved to Supabase: https://www.facebook.com/help/contact/419859403337390
+2026-06-05 02:11:51,423 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:51,424 [INFO] ✅ Saved to Supabase: https://edge-chat.facebook.com/mqtt/pull
+2026-06-05 02:11:51,578 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:51,579 [INFO] ✅ Saved to Supabase: https://external.fdel27-5.fna.fbcdn.net/maps/vt/style/canterbury_1_0/?v=86&pv=in&locale=hi_IN
+2026-06-05 02:11:51,738 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:51,740 [INFO] ✅ Saved to Supabase: https://sinarabadi.xyz/M01McZ/
+2026-06-05 02:11:51,896 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:51,897 [INFO] ✅ Saved to Supabase: https://stecu.short.gy/zqp5ir
+2026-06-05 02:11:52,054 [INFO] HTTP Request: POST https://ershquefcgtgsgotnomk.supabase.co/rest/v1/extracted_links "HTTP/2 201 Created"
+2026-06-05 02:11:52,054 [INFO] ✅ Saved to Supabase: https://www.facebook.com/help/2579891418969617
+2026-06-05 02:11:52,054 [INFO] ✅ Finished checking DMs.
+2026-06-05 02:11:52,054 [INFO] Navigating to Reels...
+2026-06-05 02:12:00,038 [INFO] 📄 Caption: There’s a 4-year plan to crack Google that nobody from a tier-3 college ever gets told.📝I figured it
+2026-06-05 02:12:00,040 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:12:00,040 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:12:03,715 [INFO] Closing browser...
+2026-06-05 02:12:04,049 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-06-05 02:16:11,149 [INFO] 🤖 Starting headless bot...
+2026-06-05 02:16:17,689 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-05 02:16:17,689 [INFO] ✅ Logged in!
+2026-06-05 02:16:17,689 [INFO] 🧪 TESTING OVERRIDE: Checking DMs immediately...
+2026-06-05 02:16:17,690 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:16:22,791 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:16:33,662 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:16:38,024 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:16:41,196 [INFO] ✅ Finished checking DMs.
+2026-06-05 02:16:41,196 [INFO] Navigating to Reels...
+2026-06-05 02:16:47,485 [INFO] 📄 Caption: Drop a comment “Link” and I’ll send the form directly to your DMs.😊Wipro is hiring interns, a great 
+2026-06-05 02:16:47,485 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:16:47,567 [INFO] ❤️ Liked the reel
+2026-06-05 02:16:48,927 [INFO] 👤 Followed creator
+2026-06-05 02:16:54,903 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-05 02:17:00,562 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:17:16,209 [INFO] ✅ Reel finished
+2026-06-05 02:17:16,771 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:17:18,877 [INFO] 📄 Caption: More mails you send more luckier you get #viral #fyp #india #explore #foryou
+2026-06-05 02:17:18,877 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:17:18,877 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:17:18,880 [INFO] ✅ Reel finished
+2026-06-05 02:17:19,870 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:17:22,259 [INFO] 📄 Caption: l interned at Microsoft after my 3rd year and then got a pre-placement offer ✨Mechanical to Microsof
+2026-06-05 02:17:22,259 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:17:22,314 [INFO] ❤️ Liked the reel
+2026-06-05 02:17:29,111 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-05 02:17:34,473 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:17:34,475 [INFO] ✅ Reel finished
+2026-06-05 02:17:35,252 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:17:38,163 [INFO] 📄 Caption: What did I actually do today?....(Deloitte, India, Pune, Usi, Hyderabad, life at Deloitte, Deloitte 
+2026-06-05 02:17:38,164 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:17:38,164 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:17:38,166 [INFO] ✅ Reel finished
+2026-06-05 02:17:38,753 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:17:40,998 [INFO] 📄 Caption: If you want to get into marketing or already work in marketing, i think you’d love my page💕✨#marketi
+2026-06-05 02:17:40,998 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-05 02:17:41,060 [INFO] ❤️ Liked the reel
+2026-06-05 02:17:42,980 [INFO] 👤 Followed creator
+2026-06-05 02:17:49,751 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-05 02:17:55,855 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:17:55,858 [INFO] ✅ Reel finished
+2026-06-05 02:17:56,418 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:17:59,360 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-05 02:17:59,360 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:18:03,685 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:18:11,719 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:18:16,051 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:18:21,984 [INFO] 📄 Caption: Yes, I’m dead serious.-#students #internship #startup #founder #entrepreneur -{ca, cafinal, icai, in
+2026-06-05 02:18:21,985 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:18:22,055 [INFO] ❤️ Liked the reel
+2026-06-05 02:18:23,872 [INFO] 👤 Followed creator
+2026-06-05 02:18:30,364 [INFO] 💬 Posted comment: Amazing content! Do you have a website with more d
+2026-06-05 02:18:35,332 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:18:35,337 [INFO] ✅ Reel finished
+2026-06-05 02:18:36,367 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:18:40,088 [INFO] 📄 Caption: Best thing ever! Comment “ACE” I will send you the link #work #job #interview
+2026-06-05 02:18:40,088 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:18:40,089 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:18:40,092 [INFO] ✅ Reel finished
+2026-06-05 02:18:40,816 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:18:43,415 [INFO] 📄 Caption: At 21, I stepped into the corporate world with no shortcuts just skills, consistency, and a hunger t
+2026-06-05 02:18:43,425 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-05 02:18:43,496 [INFO] ❤️ Liked the reel
+2026-06-05 02:18:44,915 [INFO] 👤 Followed creator
+2026-06-05 02:18:50,979 [INFO] 💬 Posted comment: How do I get started with this?
+2026-06-05 02:18:55,573 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:18:55,576 [INFO] ✅ Reel finished
+2026-06-05 02:18:56,248 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:18:58,847 [INFO] 📄 Caption: a day in my life⭐️(Day in my life vlog, office vlog, mini vlog, work day in my life, 9 to 5, 9 to 5 
+2026-06-05 02:18:58,849 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:18:58,851 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:18:58,854 [INFO] ✅ Reel finished
+2026-06-05 02:18:59,799 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:19:03,103 [INFO] 📄 Caption: Tapas Relia, Chet Dixon, Devu Khan Manganiyar · Dum-A-Dum
+2026-06-05 02:19:03,104 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:19:03,104 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:19:03,107 [INFO] ✅ Reel finished
+2026-06-05 02:19:03,983 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:19:07,211 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-05 02:19:07,211 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:19:12,296 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:19:21,758 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:19:26,528 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:19:31,298 [INFO] 📄 Caption: Drop a comment and I will share the three resources in your DM 🥳🙌🏻Happy Learning, all the best 🙌🏻#vi
+2026-06-05 02:19:31,298 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-05 02:19:31,371 [INFO] ❤️ Liked the reel
+2026-06-05 02:19:32,803 [INFO] 👤 Followed creator
+2026-06-05 02:19:39,910 [INFO] 💬 Posted comment: This is exactly what I've been looking for!
+2026-06-05 02:19:45,267 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:19:45,269 [INFO] ✅ Reel finished
+2026-06-05 02:19:46,148 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:19:49,935 [INFO] 📄 Caption: A day in life as Business Analyst 💼💻📍Barclays, Pune[ Corporate , Job , Barclays , Career , Work life
+2026-06-05 02:19:49,935 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-05 02:19:50,007 [INFO] ❤️ Liked the reel
+2026-06-05 02:19:51,618 [INFO] 👤 Followed creator
+2026-06-05 02:19:59,324 [INFO] 💬 Posted comment: I've been trying to get into this space. Any tips?
+2026-06-05 02:20:04,651 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:20:04,654 [INFO] ✅ Reel finished
+2026-06-05 02:20:05,496 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:20:08,230 [INFO] 📄 Caption: I get a lot of DMs asking for referrals, so this reel is for you.Comment “career” to get an automate
+2026-06-05 02:20:08,230 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:20:08,230 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:20:08,234 [INFO] ✅ Reel finished
+2026-06-05 02:20:09,014 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:20:12,257 [INFO] 📄 Caption: Day (82/100)If you’re trying to break into AI, stop over-consuming tutorials.Build something.Here ar
+2026-06-05 02:20:12,258 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-05 02:20:12,372 [INFO] ❤️ Liked the reel
+2026-06-05 02:20:14,410 [INFO] 👤 Followed creator
+2026-06-05 02:20:22,458 [INFO] 💬 Posted comment: I've been trying to get into this space. Any tips?
+2026-06-05 02:20:28,547 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:20:28,551 [INFO] ✅ Reel finished
+2026-06-05 02:20:29,295 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:20:31,724 [INFO] 📄 Caption: Always saw this on Instagram so finally making a version of mg day in a life as a google employee #g
+2026-06-05 02:20:31,724 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:20:31,724 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:20:31,734 [INFO] ✅ Reel finished
+2026-06-05 02:20:32,562 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:20:36,185 [INFO] 📬 Checking DMs after 15 reels...
+2026-06-05 02:20:36,185 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:20:42,545 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:20:53,006 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:20:58,798 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:21:05,067 [INFO] 📄 Caption: Amazon AWS Free Internship Program ‼️....Disclaimer: This video is for educational and informational
+2026-06-05 02:21:05,068 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:21:05,181 [INFO] ❤️ Liked the reel
+2026-06-05 02:21:11,890 [INFO] 💬 Posted comment: This is gold! Saved for later 📌
+2026-06-05 02:21:17,598 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:21:17,601 [INFO] ✅ Reel finished
+2026-06-05 02:21:18,560 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:21:20,767 [INFO] 📄 Caption: Manifestation works?✨.........manifestation works, corporate journey, dream job life, deloitte diari
+2026-06-05 02:21:20,767 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:21:20,767 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:21:20,773 [INFO] ✅ Reel finished
+2026-06-05 02:21:21,660 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:21:25,139 [INFO] 📄 Caption: Send me your ‘Resume’ & ‘E-mail’♥️✅Follow me✅Send me your resume and email ✅Create your account on ‘
+2026-06-05 02:21:25,139 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:21:25,139 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:21:25,148 [INFO] ✅ Reel finished
+2026-06-05 02:21:26,193 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:21:29,433 [INFO] 📄 Caption: drivers license? secured ✅matcha? iced ✅unemployment? destroyed ✅comment “job” and i’ll send u the p
+2026-06-05 02:21:29,433 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:21:29,434 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:21:29,437 [INFO] ✅ Reel finished
+2026-06-05 02:21:30,210 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:21:34,057 [INFO] 📄 Caption: Claude for Job in Hiring Season🚀Comment "Link" for Prompt and ATS Friendly Resume🚀(Claude, ATS Frien
+2026-06-05 02:21:34,057 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:21:34,059 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:21:34,065 [INFO] ✅ Reel finished
+2026-06-05 02:21:34,943 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:21:37,147 [INFO] 📬 Checking DMs after 20 reels...
+2026-06-05 02:21:37,147 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:21:41,528 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:21:49,209 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:21:53,657 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:21:58,750 [INFO] 📄 Caption: “Projects” shows ur expertise..🔥💯#careerindataanalytics #dataanalyticsprojects #dataanalytics #explo
+2026-06-05 02:21:58,751 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:21:58,751 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:21:58,755 [INFO] ✅ Reel finished
+2026-06-05 02:21:59,526 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:22:02,356 [INFO] 📄 Caption: Comment for My linkedin. I post job on daily basis. ✨#reels #reelsinstagram #adayinmylife #dailyvlog
+2026-06-05 02:22:02,356 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-05 02:22:02,484 [INFO] ❤️ Liked the reel
+2026-06-05 02:22:03,884 [INFO] 👤 Followed creator
+2026-06-05 02:22:11,771 [INFO] 💬 Posted comment: Great info! Where can I learn more about this? 🔥
+2026-06-05 02:22:18,156 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:22:18,163 [INFO] ✅ Reel finished
+2026-06-05 02:22:19,024 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:22:22,519 [INFO] 📄 Caption: A. R. Rahman, Raghav Mathur · Ishq Shava (From "Jab Tak Hai Jaan") (feat. Shilpa Rao, Shah Rukh Khan
+2026-06-05 02:22:22,519 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:22:22,519 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:22:22,522 [INFO] ✅ Reel finished
+2026-06-05 02:22:23,457 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:22:25,681 [INFO] 📄 Caption: Top Internship Opportunities 2026
+2026-06-05 02:22:25,682 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:22:25,844 [INFO] ❤️ Liked the reel
+2026-06-05 02:22:27,473 [INFO] 👤 Followed creator
+2026-06-05 02:22:34,649 [INFO] 💬 Posted comment: I've been trying to get into this space. Any tips?
+2026-06-05 02:22:40,810 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:22:40,814 [INFO] ✅ Reel finished
+2026-06-05 02:22:41,606 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:22:44,938 [INFO] 📄 Caption: You can build a tech startup with zero investmentComment “FREE” and I’ll share the resources!
+2026-06-05 02:22:44,938 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-05 02:22:45,080 [INFO] ❤️ Liked the reel
+2026-06-05 02:22:46,698 [INFO] 👤 Followed creator
+2026-06-05 02:22:53,779 [INFO] 💬 Posted comment: Thanks for sharing this! Very helpful 🙌
+2026-06-05 02:22:59,496 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:22:59,500 [INFO] ✅ Reel finished
+2026-06-05 02:23:00,356 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:23:03,256 [INFO] 📬 Checking DMs after 25 reels...
+2026-06-05 02:23:03,256 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:23:09,510 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:23:17,429 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:23:27,391 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:23:33,531 [INFO] 📄 Caption: Direct Test Hiring | No Resume Shortlisting Turing Hiring for Data Scientist & Analyst Roles Fresher
+2026-06-05 02:23:33,532 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:23:33,532 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:23:33,536 [INFO] ✅ Reel finished
+2026-06-05 02:23:34,537 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:23:36,798 [INFO] 📄 Caption: 📍 Deloitte | KPMG | EY | PwCA well-optimized LinkedIn isn’t just a profile, it’s your personal brand
+2026-06-05 02:23:36,798 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:23:36,799 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:23:36,802 [INFO] ✅ Reel finished
+2026-06-05 02:23:37,387 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:23:39,563 [INFO] 📄 Caption: 40+ internship openings are live right now 🚀From work from home internships to paid opportunities fo
+2026-06-05 02:23:39,565 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:23:39,734 [INFO] ❤️ Liked the reel
+2026-06-05 02:23:41,771 [INFO] 👤 Followed creator
+2026-06-05 02:23:48,912 [INFO] 💬 Posted comment: This is exactly what I've been looking for!
+2026-06-05 02:23:55,378 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:23:55,382 [INFO] ✅ Reel finished
+2026-06-05 02:23:56,354 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:24:00,217 [INFO] 📄 Caption: Flex?? Offcourse.....#viral #explorepage #amazon #fyp #corporate
+2026-06-05 02:24:00,217 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:24:00,217 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:24:00,228 [INFO] ✅ Reel finished
+2026-06-05 02:24:01,120 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:24:05,112 [INFO] 📄 Caption: Use this website to land your next job🚀...{job search tips, AI job search, automatic job application
+2026-06-05 02:24:05,112 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:24:05,113 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:24:05,116 [INFO] ✅ Reel finished
+2026-06-05 02:24:05,736 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:24:08,712 [INFO] 📬 Checking DMs after 30 reels...
+2026-06-05 02:24:08,712 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:24:14,896 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:24:24,363 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:24:28,530 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:24:34,655 [INFO] 📄 Caption: Resume Guide and my Placement Journey is available via the link in bio 📌.....•#job #career #opportun
+2026-06-05 02:24:34,655 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:24:34,655 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:24:34,663 [INFO] ✅ Reel finished
+2026-06-05 02:24:35,319 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:24:37,920 [INFO] 📄 Caption: Type “link” in the comments to get the job description.Office perks that save employee salary🫰🏼………..
+2026-06-05 02:24:37,920 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:24:37,921 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:24:37,926 [INFO] ✅ Reel finished
+2026-06-05 02:24:38,503 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:24:42,352 [INFO] 📄 Caption: Hi, I’m Sagar, I’ve cracked the DSA rounds at Uber, Amazon, Microsoft.If I had to prepare for DSA in
+2026-06-05 02:24:42,352 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:24:42,542 [INFO] ❤️ Liked the reel
+2026-06-05 02:24:44,433 [INFO] 👤 Followed creator
+2026-06-05 02:24:52,083 [INFO] 💬 Posted comment: How do I get started with this?
+2026-06-05 02:24:57,711 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:24:57,714 [INFO] ✅ Reel finished
+2026-06-05 02:24:58,337 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:25:02,110 [INFO] 📄 Caption: Upload your case files on Claude. Use these 3 prompts to find what your competitors won’t.🔵 Prompt 1
+2026-06-05 02:25:02,110 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:25:02,110 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:25:02,113 [INFO] ✅ Reel finished
+2026-06-05 02:25:02,802 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:25:06,412 [INFO] 📄 Caption: hii :) to all the new faces here, here's a bit about me:- I am a product designer working in enterpr
+2026-06-05 02:25:06,412 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:25:06,412 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:25:06,415 [INFO] ✅ Reel finished
+2026-06-05 02:25:07,152 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:25:09,551 [INFO] 📬 Checking DMs after 35 reels...
+2026-06-05 02:25:09,552 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:25:15,037 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:25:24,434 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:25:28,926 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:25:34,214 [INFO] 📄 Caption: Aao referral dilwati hu 👩🏻‍💻#viral #job #corporatelife #explore #office
+2026-06-05 02:25:34,214 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:25:34,214 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:25:34,225 [INFO] ✅ Reel finished
+2026-06-05 02:25:34,834 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:25:36,962 [INFO] 📄 Caption: Leaders Connect India 2026: AI That Means Business#conference #meetup #tech #google #growth [growth,
+2026-06-05 02:25:36,962 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-05 02:25:37,192 [INFO] ❤️ Liked the reel
+2026-06-05 02:25:39,464 [INFO] 👤 Followed creator
+2026-06-05 02:25:47,128 [INFO] 💬 Posted comment: Great info! Where can I learn more about this? 🔥
+2026-06-05 02:25:53,723 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:25:53,726 [INFO] ✅ Reel finished
+2026-06-05 02:25:54,700 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:25:57,259 [INFO] 📄 Caption: Comment 'Link' to get the website links in your DMs 📥 Students with NO experience — these internship
+2026-06-05 02:25:57,260 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:25:57,475 [INFO] ❤️ Liked the reel
+2026-06-05 02:25:59,465 [INFO] 👤 Followed creator
+2026-06-05 02:26:06,602 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-05 02:26:13,518 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:26:13,523 [INFO] ✅ Reel finished
+2026-06-05 02:26:14,116 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:26:17,607 [INFO] 📄 Caption: The never ending client visits and travel stories! 🧿✨Checkout my corporate travel series and enjoyyy
+2026-06-05 02:26:17,607 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:26:17,607 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:26:17,611 [INFO] ✅ Reel finished
+2026-06-05 02:26:18,512 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:26:21,129 [INFO] 📄 Caption: These 8 LLM projects are the kind of projects companies like Microsoft, DoorDash, and American Expre
+2026-06-05 02:26:21,131 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:26:21,131 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:26:21,144 [INFO] ✅ Reel finished
+2026-06-05 02:26:22,049 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:26:25,781 [INFO] 📬 Checking DMs after 40 reels...
+2026-06-05 02:26:25,781 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:26:30,577 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:26:40,447 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:26:45,615 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:26:51,241 [INFO] 📄 Caption: Join our cult 😂 ( tap the reel to know )[ prank, viral, trend, new joinee prank, hiring, join femisa
+2026-06-05 02:26:51,242 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:26:51,242 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:26:51,245 [INFO] ✅ Reel finished
+2026-06-05 02:26:52,247 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:26:55,343 [INFO] 📄 Caption: Follow and Comment “startup” and I’ll send it to you in your DMs💌… more
+2026-06-05 02:26:55,343 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-05 02:26:55,589 [INFO] ❤️ Liked the reel
+2026-06-05 02:26:57,858 [INFO] 👤 Followed creator
+2026-06-05 02:27:04,946 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-05 02:27:10,385 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:27:10,389 [INFO] ✅ Reel finished
+2026-06-05 02:27:11,295 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:27:14,859 [INFO] 📄 Caption: Comment ‘CV’ or ‘Resume’ and will share the detailed prompt to improve your resume points Remember C
+2026-06-05 02:27:14,860 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:27:14,860 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:27:14,869 [INFO] ✅ Reel finished
+2026-06-05 02:27:15,579 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:27:19,546 [INFO] 📄 Caption: spend the day with me as a 22 year old financial modelling analyst as I tell you how I go about buil
+2026-06-05 02:27:19,546 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:27:19,547 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:27:19,555 [INFO] ✅ Reel finished
+2026-06-05 02:27:20,546 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:27:24,329 [INFO] 📄 Caption: Follow first @crackwitharsh , then comment "Yes" to receive direct Test hiring links straight to you
+2026-06-05 02:27:24,330 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:27:24,330 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:27:24,341 [INFO] ✅ Reel finished
+2026-06-05 02:27:25,163 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:27:27,909 [INFO] 📬 Checking DMs after 45 reels...
+2026-06-05 02:27:27,909 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:27:33,922 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:27:43,706 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:27:48,465 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:27:53,739 [INFO] 📄 Caption: Likho amazonians🫣#amazon #office #relatable #corporate #meme
+2026-06-05 02:27:53,740 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:27:53,740 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:27:53,741 [INFO] ✅ Reel finished
+2026-06-05 02:27:53,769 [INFO] Closing browser...
+2026-06-05 02:35:06,401 [INFO] 🤖 Starting headless bot...
+2026-06-05 02:35:14,753 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-05 02:35:14,753 [INFO] ✅ Logged in!
+2026-06-05 02:35:14,753 [INFO] 🧪 TESTING OVERRIDE: Checking DMs immediately...
+2026-06-05 02:35:14,753 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:35:20,928 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:35:29,794 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:35:35,631 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:35:38,317 [INFO] ✅ Finished checking DMs.
+2026-06-05 02:35:38,317 [INFO] Navigating to Reels...
+2026-06-05 02:35:45,853 [INFO] 📄 Caption: Applications for the Google Gemini India Ambassador Program are open 👀✨Comment “Google” below to get
+2026-06-05 02:35:45,855 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:35:45,855 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:36:06,405 [INFO] ✅ Reel finished
+2026-06-05 02:36:07,058 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:36:10,833 [INFO] 📄 Caption: June Job Search Package🚀Comment "June" for the package🚀[job search package, hiring in june, ats frie
+2026-06-05 02:36:10,833 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:36:10,911 [INFO] ❤️ Liked the reel
+2026-06-05 02:36:12,705 [INFO] 👤 Followed creator
+2026-06-05 02:36:16,026 [INFO] 🧠 Determined best comment: 'June'
+2026-06-05 02:36:18,352 [INFO] 💬 Posted comment: June
+2026-06-05 02:36:24,782 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:36:24,786 [INFO] ✅ Reel finished
+2026-06-05 02:36:25,373 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:36:29,082 [INFO] 📄 Caption: Drop a comment and I will share the secret link in your DM 🙌❤️Happy Learning, all the best ❤️🙌#viral
+2026-06-05 02:36:29,082 [INFO] 🎯 Relevant [money]! Liking, following + commenting...
+2026-06-05 02:36:29,152 [INFO] ❤️ Liked the reel
+2026-06-05 02:36:32,433 [INFO] 🧠 Determined best comment: 'Great info! Where can I learn more about this? 🔥'
+2026-06-05 02:36:36,586 [INFO] 💬 Posted comment: Great info! Where can I learn more about this? 🔥
+2026-06-05 02:36:42,935 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:36:42,939 [INFO] ✅ Reel finished
+2026-06-05 02:36:43,624 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:36:46,319 [INFO] 📄 Caption: Dm with job id 😇Don’t forget to follow#jobreferral #hiringnow #jobopportunity #referme #jobsearch
+2026-06-05 02:36:46,321 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:36:46,389 [INFO] ❤️ Liked the reel
+2026-06-05 02:36:47,787 [INFO] 👤 Followed creator
+2026-06-05 02:36:50,636 [INFO] 🧠 Determined best comment: 'Thanks for sharing this! Very helpful 🙌'
+2026-06-05 02:36:53,869 [INFO] 💬 Posted comment: Thanks for sharing this! Very helpful 🙌
+2026-06-05 02:36:58,707 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:36:58,710 [INFO] ✅ Reel finished
+2026-06-05 02:36:59,506 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:37:02,209 [INFO] 📄 Caption: “why can i literally not focus no matter what i do”honestly i used to think i just had terrible atte
+2026-06-05 02:37:02,210 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:37:02,210 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:37:02,213 [INFO] ✅ Reel finished
+2026-06-05 02:37:03,089 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:37:05,177 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-05 02:37:05,177 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:37:10,846 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:37:19,539 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:37:24,950 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:37:30,950 [INFO] 📄 Caption: Merecerá la pena.#negocios #emprender #empresarios #marketing
+2026-06-05 02:37:30,951 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-05 02:37:31,067 [INFO] ❤️ Liked the reel
+2026-06-05 02:37:32,847 [INFO] 👤 Followed creator
+2026-06-05 02:37:35,647 [INFO] 🧠 Determined best comment: 'I've been trying to get into this space. Any tips?'
+2026-06-05 02:37:39,281 [INFO] 💬 Posted comment: I've been trying to get into this space. Any tips?
+2026-06-05 02:37:44,387 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:37:44,392 [INFO] ✅ Reel finished
+2026-06-05 02:37:45,303 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:37:47,463 [INFO] 📄 Caption: Oracle student internship for 🇮🇳 students!Send this reel to my DMs and comment “oracle” for the lin
+2026-06-05 02:37:47,463 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:37:47,540 [INFO] ❤️ Liked the reel
+2026-06-05 02:37:48,733 [INFO] 👤 Followed creator
+2026-06-05 02:37:51,835 [INFO] 🧠 Determined best comment: 'oracle'
+2026-06-05 02:37:53,933 [INFO] 💬 Posted comment: oracle
+2026-06-05 02:37:58,641 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:37:58,645 [INFO] ✅ Reel finished
+2026-06-05 02:37:59,287 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:38:01,561 [INFO] 📄 Caption: Don't forget to follow to get the DM 💯Dream big and don't stop until it's done... 💪🧿......#trending 
+2026-06-05 02:38:01,561 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:38:01,625 [INFO] ❤️ Liked the reel
+2026-06-05 02:38:02,900 [INFO] 👤 Followed creator
+2026-06-05 02:38:06,346 [INFO] 🧠 Determined best comment: 'How do I get started with this?'
+2026-06-05 02:38:09,688 [INFO] 💬 Posted comment: How do I get started with this?
+2026-06-05 02:38:15,837 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:38:15,842 [INFO] ✅ Reel finished
+2026-06-05 02:38:16,486 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:38:19,983 [INFO] 📄 Caption: Follow @groove.with.zee and comment “intern”#internship #freshers
+2026-06-05 02:38:19,983 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:38:20,056 [INFO] ❤️ Liked the reel
+2026-06-05 02:38:21,781 [INFO] 👤 Followed creator
+2026-06-05 02:38:24,312 [INFO] 🧠 Determined best comment: 'intern'
+2026-06-05 02:38:27,116 [INFO] 💬 Posted comment: intern
+2026-06-05 02:38:32,636 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:38:32,641 [INFO] ✅ Reel finished
+2026-06-05 02:38:33,551 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:38:36,968 [INFO] 📄 Caption: Tapas Relia, Chet Dixon, Devu Khan Manganiyar · Dum-A-Dum
+2026-06-05 02:38:36,968 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:38:36,969 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:38:36,974 [INFO] ✅ Reel finished
+2026-06-05 02:38:37,785 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:38:40,265 [INFO] 📬 Checking DMs after 10 reels...
+2026-06-05 02:38:40,265 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:38:46,064 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:38:56,055 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:39:01,811 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:39:06,989 [INFO] 📄 Caption: InsideIIM's Top 50 Most Employable MBA Graduates - Here's Exactly How to Apply 👇This is India's bigg
+2026-06-05 02:39:06,990 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:39:07,059 [INFO] ❤️ Liked the reel
+2026-06-05 02:39:08,656 [INFO] 👤 Followed creator
+2026-06-05 02:39:12,176 [INFO] 🧠 Determined best comment: 'This is exactly what I've been looking for!'
+2026-06-05 02:39:15,709 [INFO] 💬 Posted comment: This is exactly what I've been looking for!
+2026-06-05 02:39:21,410 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:39:21,414 [INFO] ✅ Reel finished
+2026-06-05 02:39:22,166 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:39:24,395 [INFO] 📄 Caption: Day in my life as a Software Engineer at Google | ft-Monday#lifeatgoogle #google #softwareengineer #
+2026-06-05 02:39:24,396 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:39:24,396 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:39:24,400 [INFO] ✅ Reel finished
+2026-06-05 02:39:25,400 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:39:28,643 [INFO] 📄 Caption: Share with your female friends who are in tech..{Women in tech, hiring, flipkart girls wanna code, a
+2026-06-05 02:39:28,643 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:39:28,731 [INFO] ❤️ Liked the reel
+2026-06-05 02:39:30,346 [INFO] 👤 Followed creator
+2026-06-05 02:39:32,985 [INFO] 🧠 Determined best comment: 'Would love to connect and learn more!'
+2026-06-05 02:39:36,991 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-05 02:39:42,501 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:39:42,506 [INFO] ✅ Reel finished
+2026-06-05 02:39:43,533 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:39:47,231 [INFO] 📄 Caption: Follow @gauravhq.ai & Comment “JP” and get the link in your DM!Kickstart Your Career with JPMorgan C
+2026-06-05 02:39:47,232 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:39:47,356 [INFO] ❤️ Liked the reel
+2026-06-05 02:39:48,711 [INFO] 👤 Followed creator
+2026-06-05 02:39:51,221 [INFO] 🧠 Determined best comment: 'JP'
+2026-06-05 02:39:53,545 [INFO] 💬 Posted comment: JP
+2026-06-05 02:40:00,201 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:40:00,205 [INFO] ✅ Reel finished
+2026-06-05 02:40:01,065 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:40:04,520 [INFO] 📄 Caption: Internship for Students, I will keep updating in the sheet. ...#studentinternship #internshipinindia
+2026-06-05 02:40:04,521 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:40:04,625 [INFO] ❤️ Liked the reel
+2026-06-05 02:40:06,222 [INFO] 👤 Followed creator
+2026-06-05 02:40:09,690 [INFO] 🧠 Determined best comment: 'This is gold! Saved for later 📌'
+2026-06-05 02:40:13,479 [INFO] 💬 Posted comment: This is gold! Saved for later 📌
+2026-06-05 02:40:19,148 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:40:19,155 [INFO] ✅ Reel finished
+2026-06-05 02:40:20,066 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:40:22,699 [INFO] 📬 Checking DMs after 15 reels...
+2026-06-05 02:40:22,699 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:40:28,119 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:40:38,538 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:40:43,804 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:40:48,761 [INFO] 📄 Caption: 🚨 GOOGLE India is hiring!Every week, I get messages from students asking:“How do I get a Google refe
+2026-06-05 02:40:48,761 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:40:48,853 [INFO] ❤️ Liked the reel
+2026-06-05 02:40:50,847 [INFO] 👤 Followed creator
+2026-06-05 02:40:52,923 [INFO] 🧠 Determined best comment: 'Would love to connect and learn more!'
+2026-06-05 02:40:57,191 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-05 02:41:02,048 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:41:02,051 [INFO] ✅ Reel finished
+2026-06-05 02:41:03,096 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:41:05,723 [INFO] 📄 Caption: Microsoft crazy event announced!Apply Before: 8th JuneMicrosoft AI Skills FestFollow @escapistfuror 
+2026-06-05 02:41:05,723 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:41:05,723 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:41:05,727 [INFO] ✅ Reel finished
+2026-06-05 02:41:06,712 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:41:09,275 [INFO] 📄 Caption: Comment “PYTHON” to get started and Follow @divyanshi.kamra to stay tuned for all the parts 👩🏻‍💻🏎️🏆 
+2026-06-05 02:41:09,275 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:41:09,358 [INFO] ❤️ Liked the reel
+2026-06-05 02:41:11,388 [INFO] 👤 Followed creator
+2026-06-05 02:41:15,230 [INFO] 🧠 Determined best comment: 'PYTHON'
+2026-06-05 02:41:17,467 [INFO] 💬 Posted comment: PYTHON
+2026-06-05 02:41:24,010 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:41:24,012 [INFO] ✅ Reel finished
+2026-06-05 02:41:24,746 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:41:27,885 [INFO] 📄 Caption: Day 16/30- Living the “offer letter kab aayega” phase!!!#placed #placement #mba #offerletter #colleg
+2026-06-05 02:41:27,885 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:41:28,045 [INFO] ❤️ Liked the reel
+2026-06-05 02:41:30,076 [INFO] 👤 Followed creator
+2026-06-05 02:41:32,690 [INFO] 🧠 Determined best comment: 'I've been trying to get into this space. Any tips?'
+2026-06-05 02:41:37,092 [INFO] 💬 Posted comment: I've been trying to get into this space. Any tips?
+2026-06-05 02:41:43,319 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:41:43,321 [INFO] ✅ Reel finished
+2026-06-05 02:41:44,228 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:41:46,923 [INFO] 📄 Caption: Day 20/30 🌸..#uiux #uiuxdesigner #figma #design #designtricks
+2026-06-05 02:41:46,925 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:41:46,925 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:41:46,931 [INFO] ✅ Reel finished
+2026-06-05 02:41:47,561 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:41:50,978 [INFO] 📬 Checking DMs after 20 reels...
+2026-06-05 02:41:50,978 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:41:55,548 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:42:05,687 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:42:12,131 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:42:18,184 [INFO] 📄 Caption: Big 4 aptitude question trick#aptitude #ssc #reasoning #deloitte #maths
+2026-06-05 02:42:18,184 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:42:18,184 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:42:18,187 [INFO] ✅ Reel finished
+2026-06-05 02:42:19,010 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:42:21,257 [INFO] 📄 Caption: before applying for JOBS, check this out 💯Comment/DM for links :)[ job search, career websites, AI r
+2026-06-05 02:42:21,257 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:42:21,503 [INFO] ❤️ Liked the reel
+2026-06-05 02:42:23,207 [INFO] 👤 Followed creator
+2026-06-05 02:42:26,176 [INFO] 🧠 Determined best comment: 'Thanks for sharing this! Very helpful 🙌'
+2026-06-05 02:42:30,052 [INFO] 💬 Posted comment: Thanks for sharing this! Very helpful 🙌
+2026-06-05 02:42:36,185 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:42:36,187 [INFO] ✅ Reel finished
+2026-06-05 02:42:36,760 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:42:39,074 [INFO] 📄 Caption: Aptitude Test Prep Tool for Career in MNCFree Aptitude TestComment Aptitude to get the link 🔗
+2026-06-05 02:42:39,074 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:42:39,185 [INFO] ❤️ Liked the reel
+2026-06-05 02:42:40,808 [INFO] 👤 Followed creator
+2026-06-05 02:42:43,643 [INFO] 🧠 Determined best comment: 'Would love to connect and learn more!'
+2026-06-05 02:42:47,122 [INFO] 💬 Posted comment: Would love to connect and learn more!
+2026-06-05 02:42:47,718 [INFO] Closing browser...
+2026-06-05 02:44:16,490 [INFO] 🤖 Starting headless bot...
+2026-06-05 02:44:24,661 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-05 02:44:24,662 [INFO] ✅ Logged in!
+2026-06-05 02:44:24,662 [INFO] 🧪 TESTING OVERRIDE: Checking DMs immediately...
+2026-06-05 02:44:24,662 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:44:29,220 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:44:38,035 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:44:42,393 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:44:45,367 [INFO] ✅ Finished checking DMs.
+2026-06-05 02:44:45,367 [INFO] Navigating to Reels...
+2026-06-05 02:44:52,509 [INFO] 📄 Caption: comment link 🔗 [tech job, iit, google sde, uber sde, amazon sde, software engineer, resume, iitian, 
+2026-06-05 02:44:52,509 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:44:52,611 [INFO] ❤️ Liked the reel
+2026-06-05 02:44:55,599 [INFO] 🧠 Determined best comment: 'Thanks for sharing this! Very helpful 🙌'
+2026-06-05 02:44:57,207 [ERROR] Comment failed: ElementHandle.focus: Element is not attached to the DOM
+2026-06-05 02:44:59,404 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:45:00,731 [INFO] ✅ Reel finished
+2026-06-05 02:45:01,469 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:45:04,201 [INFO] 📄 Caption: Making money in sales gets easy once you realize this 💸✨ People buy from people they LIKE, not the s
+2026-06-05 02:45:04,201 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-05 02:45:04,251 [INFO] ❤️ Liked the reel
+2026-06-05 02:45:07,277 [INFO] 🧠 Determined best comment: 'I've been trying to get into this space. Any tips?'
+2026-06-05 02:45:08,690 [ERROR] Comment failed: ElementHandle.focus: Element is not attached to the DOM
+2026-06-05 02:45:11,198 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:45:11,201 [INFO] ✅ Reel finished
+2026-06-05 02:45:11,903 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:45:14,775 [INFO] 📄 Caption: CheatCode to crack Google🔥This is the ultimate resource guide to crack Google. It contains:✅ 3 Month
+2026-06-05 02:45:14,776 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:45:14,776 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:45:14,778 [INFO] ✅ Reel finished
+2026-06-05 02:45:15,503 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:45:18,224 [INFO] 📄 Caption: Financial modelling isn’t about complicated Excel sheets. It’s about predicting:What a business earn
+2026-06-05 02:45:18,225 [INFO] 🎯 Relevant [business]! Liking, following + commenting...
+2026-06-05 02:45:18,277 [INFO] ❤️ Liked the reel
+2026-06-05 02:45:21,207 [INFO] 🧠 Determined best comment: 'pdf'
+2026-06-05 02:45:22,375 [ERROR] Comment failed: ElementHandle.focus: Element is not attached to the DOM
+2026-06-05 02:45:24,768 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:45:24,773 [INFO] ✅ Reel finished
+2026-06-05 02:45:25,435 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:45:29,352 [INFO] 📄 Caption: Day 1 at Capgemini ✨[career, growth, lifestyle, vlog, capgemini, consulting, motivation]#mba #intern
+2026-06-05 02:45:29,352 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:45:29,409 [INFO] ❤️ Liked the reel
+2026-06-05 02:45:32,533 [INFO] 🧠 Determined best comment: 'How do I get started with this?'
+2026-06-05 02:45:34,003 [ERROR] Comment failed: ElementHandle.focus: Element is not attached to the DOM
+2026-06-05 02:45:36,148 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:45:36,156 [INFO] ✅ Reel finished
+2026-06-05 02:45:37,068 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:45:40,297 [INFO] 📬 Checking DMs after 5 reels...
+2026-06-05 02:45:40,297 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:45:46,413 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:45:57,835 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:46:02,309 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:46:08,744 [INFO] 📄 Caption: Comment “INTERNSHIP” and I’ll send you my internship survival guide + tips to stand out in a marketi
+2026-06-05 02:46:08,745 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:46:08,800 [INFO] ❤️ Liked the reel
+2026-06-05 02:46:11,326 [INFO] 🧠 Determined best comment: 'INTERNSHIP'
+2026-06-05 02:46:12,557 [ERROR] Comment failed: ElementHandle.focus: Element is not attached to the DOM
+2026-06-05 02:46:16,278 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:46:16,282 [INFO] ✅ Reel finished
+2026-06-05 02:46:17,050 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:46:20,668 [INFO] 📄 Caption: these will actually get you hiredfull-stack: 1.Personal Finance Dashboard Plaid sandbox integration 
+2026-06-05 02:46:20,669 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:46:20,722 [INFO] ❤️ Liked the reel
+2026-06-05 02:46:23,931 [INFO] 🧠 Determined best comment: 'Would love to connect and learn more!'
+2026-06-05 02:46:25,398 [ERROR] Comment failed: ElementHandle.focus: Element is not attached to the DOM
+2026-06-05 02:46:29,209 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:46:29,212 [INFO] ✅ Reel finished
+2026-06-05 02:46:29,912 [INFO] Closing browser...
+2026-06-05 02:48:57,624 [INFO] 🤖 Starting headless bot...
+2026-06-05 02:49:04,534 [INFO] 📸 Screenshot saved to C:\Users\madhav\Documents\vs code all project\instaIntern\instagram-bot\debug_screenshot.png — check it to verify login
+2026-06-05 02:49:04,534 [INFO] ✅ Logged in!
+2026-06-05 02:49:04,534 [INFO] 🧪 TESTING OVERRIDE: Checking DMs immediately...
+2026-06-05 02:49:04,535 [INFO] 📬 Checking DMs: Inbox
+2026-06-05 02:49:10,219 [INFO] 💾 Saved Inbox HTML to debug_inbox.html for debugging
+2026-06-05 02:49:20,838 [INFO] 📬 Checking DMs: Requests
+2026-06-05 02:49:25,304 [INFO] 💾 Saved Requests HTML to debug_requests.html for debugging
+2026-06-05 02:49:27,480 [INFO] ✅ Finished checking DMs.
+2026-06-05 02:49:27,480 [INFO] Navigating to Reels...
+2026-06-05 02:49:34,738 [INFO] 📄 Caption: Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj · Jaiye Sajana (From "Dhurandhar The Revenge")
+2026-06-05 02:49:34,738 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:49:34,738 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:50:07,550 [INFO] ✅ Reel finished
+2026-06-05 02:50:08,224 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:50:11,064 [INFO] 📄 Caption: LM vs RAG vs AI Agents — what’s the difference? 🤖Most people use these terms interchangeably. That’s
+2026-06-05 02:50:11,065 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:50:11,065 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:50:11,067 [INFO] ✅ Reel finished
+2026-06-05 02:50:11,674 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:50:15,145 [INFO] 📄 Caption: I’ve been on both sides - asking for referrals and giving them.And I’ve seen the same mistake again 
+2026-06-05 02:50:15,146 [INFO] 🎯 Relevant [internship]! Liking, following + commenting...
+2026-06-05 02:50:15,200 [INFO] ❤️ Liked the reel
+2026-06-05 02:50:17,912 [INFO] 🧠 Determined best comment: 'This is gold! Saved for later 📌'
+2026-06-05 02:50:22,334 [ERROR] Comment failed: Page.evaluate_handle: SyntaxError: Failed to execute 'querySelectorAll' on 'Document': 'div[role="button"]:has-text("Post"), button:has-text("Post")' is not a valid selector.
+    at eval (eval at evaluate (:302:30), <anonymous>:2:35)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2026-06-05 02:50:24,623 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:50:24,627 [INFO] ✅ Reel finished
+2026-06-05 02:50:25,491 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:50:27,555 [INFO] 📄 Caption: meghanakumthekar_
+2026-06-05 02:50:27,555 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:50:27,555 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:50:27,559 [INFO] ✅ Reel finished
+2026-06-05 02:50:28,373 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:50:31,396 [INFO] 📄 Caption: my early mornings are temporary, but his childhood memories will last forever 🤍#singlemomlife #toddl
+2026-06-05 02:50:31,396 [INFO] ⏭️  Not relevant, skipping
+2026-06-05 02:50:31,397 [INFO] ⏳ Waiting for reel to finish...
+2026-06-05 02:50:31,400 [INFO] ✅ Reel finished
+2026-06-05 02:50:32,307 [INFO] ⬇️  Scrolled via mouse wheel
+2026-06-05 02:50:32,465 [INFO] Closing browser...

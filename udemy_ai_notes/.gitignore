@@ -1,0 +1,44 @@
+# Git ignore for Udemy AI Notes
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables (contains API keys!)
+.env
+
+# Browser session data
+browser_data/
+
+# Output files
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Whisper models cache
+models/
+
+# Logs
+*.log
+logs/
+
+# Temp files
+tmp/
+temp/

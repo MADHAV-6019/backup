@@ -1,0 +1,27 @@
+# notes-ai configuration
+# Copy to ~/.config/notes-ai/config.yaml (or run `notes-ai config --init`)
+# and override only what you need -- every field has a sane default.
+
+capture:
+  ocr_interval_seconds: 5
+  max_screenshots_per_lecture: 60
+  image_quality: 85          # JPEG quality, 1-100
+
+whisper:
+  model: medium              # tiny | base | small | medium | large-v3
+  language: auto             # auto | en | hi
+
+output:
+  root_folder: "./output"
+  markdown_theme: default
+  pdf_theme: default
+
+llm:
+  provider: anthropic
+  model: claude-sonnet-4-6
+  temperature: 0.3
+  chunk_size_seconds: 300     # transcript chunk length fed to the LLM per call
+
+processing:
+  skip_completed: true
+  max_retries: 3

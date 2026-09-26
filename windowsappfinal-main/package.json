@@ -1,0 +1,105 @@
+{
+  "name": "phantombeats",
+  "version": "1.0.0",
+  "description": "PhantomBeats — Spatial Music Engine",
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build": "npx vite build",
+    "electron:start": "electron .",
+    "dist": "electron-builder --win",
+    "build:windows": "npm run build && npm run dist",
+    "frontend:dev": "npx vite --port 5173"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.7",
+    "axios": "^1.13.6",
+    "cheerio": "^1.0.0-rc.12",
+    "compression": "^1.8.1",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "html2canvas": "^1.4.1",
+    "multer": "^2.1.1",
+    "sql.js": "^1.14.1",
+    "tone": "^15.1.22",
+    "uuid": "^14.0.0",
+    "ws": "^8.20.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "electron": "^30.0.0",
+    "electron-builder": "^24.13.3",
+    "electron-icon-builder": "^2.0.1",
+    "gsap": "^3.14.2",
+    "nodemon": "^3.1.14",
+    "vite": "^5.2.11",
+    "wait-on": "^7.2.0"
+  },
+  "build": {
+    "appId": "com.phantombeats.app",
+    "productName": "PhantomBeats",
+    "forceCodeSigning": false,
+    "directories": {
+      "output": "release5",
+      "buildResources": "build"
+    },
+    "files": [
+      "dist/**/*",
+      "src/**/*",
+      "server.js",
+      "electron-main.js",
+      "preload.js",
+      ".env",
+      "node_modules/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "python-api-dist/python-api-server",
+        "to": "python-api-server",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": "python-api",
+        "to": "python-api",
+        "filter": [
+          "main.py",
+          "requirements.txt"
+        ]
+      }
+    ],
+    "asarUnpack": [
+      "node_modules/sql.js/**"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "publisherName": "PhantomBeats"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "PhantomBeats",
+      "deleteAppDataOnUninstall": true,
+      "runAfterFinish": true,
+      "installerSidebar": null,
+      "license": null
+    },
+    "compression": "normal"
+  }
+}

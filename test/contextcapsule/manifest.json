@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Context Capsule",
+  "version": "1.0",
+  "description": "Package your entire AI chat context into a portable capsule. Paste it into any new AI chatbot.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Context Capsule"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "clipboardWrite",
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "*://chatgpt.com/*",
+    "*://chat.openai.com/*",
+    "*://*.claude.ai/*",
+    "*://*.hackerai.co/*"
+  ]
+}

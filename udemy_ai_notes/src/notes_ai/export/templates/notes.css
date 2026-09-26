@@ -1,0 +1,304 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ==========================================================================
+   Notes AI — Professional PDF Theme
+   ========================================================================== */
+
+:root {
+    --primary: #2563eb;
+    --primary-dark: #1d4ed8;
+    --primary-light: #dbeafe;
+    --secondary: #7c3aed;
+    --text: #1e293b;
+    --text-muted: #64748b;
+    --text-light: #94a3b8;
+    --bg: #ffffff;
+    --bg-alt: #f8fafc;
+    --border: #e2e8f0;
+    --code-bg: #1e1e2e;
+    --code-text: #cdd6f4;
+    --success: #16a34a;
+    --success-light: #dcfce7;
+    --warning: #d97706;
+    --warning-light: #fef3c7;
+    --danger: #dc2626;
+    --danger-light: #fee2e2;
+    --radius: 6px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 11pt;
+    line-height: 1.75;
+    color: var(--text);
+    background: var(--bg);
+    -webkit-font-smoothing: antialiased;
+}
+
+/* --- Document Layout --- */
+.document {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px 60px;
+}
+
+/* --- Header --- */
+header {
+    text-align: center;
+    margin-bottom: 45px;
+    padding-bottom: 25px;
+    border-bottom: 3px solid var(--primary);
+    background: linear-gradient(135deg, var(--primary-light) 0%, var(--bg) 100%);
+    margin: -50px -60px 45px;
+    padding: 50px 60px 25px;
+}
+
+.doc-title {
+    font-size: 26pt;
+    font-weight: 700;
+    color: var(--primary-dark);
+    margin-bottom: 10px;
+    letter-spacing: -0.5px;
+}
+
+.doc-subtitle {
+    font-size: 11pt;
+    color: var(--text-muted);
+    font-style: italic;
+    font-weight: 300;
+}
+
+/* --- Headings --- */
+h1 {
+    font-size: 22pt;
+    color: var(--primary-dark);
+    margin: 35px 0 18px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+}
+
+h2 {
+    font-size: 16pt;
+    color: var(--text);
+    margin: 30px 0 14px;
+    font-weight: 600;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--primary-light);
+}
+
+h3 {
+    font-size: 13pt;
+    color: var(--text);
+    margin: 22px 0 10px;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 11pt;
+    color: var(--text-muted);
+    margin: 16px 0 8px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* --- Body Text --- */
+p {
+    margin: 10px 0;
+}
+
+/* --- Lists --- */
+ul, ol {
+    margin: 10px 0 10px 28px;
+}
+
+li {
+    margin: 5px 0;
+}
+
+li::marker {
+    color: var(--primary);
+}
+
+/* --- Links --- */
+a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* --- Emphasis --- */
+strong {
+    font-weight: 600;
+    color: var(--text);
+}
+
+em {
+    font-style: italic;
+    color: var(--text-muted);
+}
+
+/* --- Blockquotes --- */
+blockquote {
+    border-left: 4px solid var(--primary);
+    padding: 12px 20px;
+    margin: 16px 0;
+    background: var(--primary-light);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-style: italic;
+}
+
+blockquote p {
+    margin: 4px 0;
+}
+
+/* --- Inline Code --- */
+code {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    font-size: 9.5pt;
+    background: #f1f5f9;
+    padding: 2px 7px;
+    border-radius: 4px;
+    color: var(--secondary);
+    border: 1px solid var(--border);
+}
+
+/* --- Code Blocks --- */
+pre {
+    background: var(--code-bg);
+    color: var(--code-text);
+    padding: 18px 22px;
+    border-radius: 8px;
+    overflow-x: auto;
+    margin: 16px 0;
+    font-size: 9pt;
+    line-height: 1.6;
+    border: 1px solid #313244;
+}
+
+pre code {
+    background: none;
+    padding: 0;
+    color: inherit;
+    border: none;
+    font-size: inherit;
+}
+
+/* --- Syntax Highlighting (Monokai-inspired) --- */
+.highlight .k, .highlight .kn, .highlight .kd { color: #cba6f7; }  /* keywords */
+.highlight .s, .highlight .s1, .highlight .s2 { color: #a6e3a1; }  /* strings */
+.highlight .n, .highlight .na { color: #cdd6f4; }                  /* names */
+.highlight .nf { color: #89b4fa; }                                  /* function names */
+.highlight .nb { color: #f9e2af; }                                  /* builtins */
+.highlight .c, .highlight .c1, .highlight .cm { color: #6c7086; font-style: italic; }  /* comments */
+.highlight .mi, .highlight .mf { color: #fab387; }                 /* numbers */
+.highlight .o { color: #89dceb; }                                   /* operators */
+.highlight .p { color: #cdd6f4; }                                   /* punctuation */
+
+/* --- Tables --- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 10pt;
+}
+
+th, td {
+    border: 1px solid var(--border);
+    padding: 10px 14px;
+    text-align: left;
+}
+
+th {
+    background: var(--primary-light);
+    font-weight: 600;
+    color: var(--primary-dark);
+}
+
+tr:nth-child(even) {
+    background: var(--bg-alt);
+}
+
+/* --- Details / Collapsible --- */
+details {
+    margin: 10px 0;
+    padding: 10px 16px;
+    background: var(--bg-alt);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+
+summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--primary);
+    padding: 4px 0;
+}
+
+/* --- Horizontal Rules --- */
+hr {
+    border: none;
+    border-top: 2px solid var(--border);
+    margin: 30px 0;
+}
+
+/* --- Footer --- */
+footer {
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 2px solid var(--border);
+    text-align: center;
+    font-size: 9pt;
+    color: var(--text-light);
+}
+
+/* --- Print / PDF Styles --- */
+@page {
+    size: A4;
+    margin: 2cm 2.5cm;
+
+    @bottom-center {
+        content: counter(page) " / " counter(pages);
+        font-size: 9pt;
+        color: #94a3b8;
+    }
+}
+
+@media print {
+    .document {
+        padding: 0;
+        max-width: none;
+    }
+
+    header {
+        margin: 0 0 30px;
+        padding: 20px 0;
+    }
+
+    pre {
+        page-break-inside: avoid;
+        font-size: 8.5pt;
+    }
+
+    h2, h3 {
+        page-break-after: avoid;
+    }
+
+    table {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100%;
+        page-break-inside: avoid;
+    }
+}

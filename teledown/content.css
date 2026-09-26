@@ -1,0 +1,250 @@
+/* Teledown Premium - Injected Elements Stylesheet */
+
+/* ─── Hover Overlay buttons for Images & Videos ────── */
+.teledown-hover-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: rgba(10, 16, 24, 0.82) !important;
+  border: 1px solid rgba(255, 255, 255, 0.18) !important;
+  color: #FFFFFF !important;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  z-index: 9999;
+  opacity: 0;
+  transform: scale(0.85);
+  transition: opacity 0.22s cubic-bezier(0.4, 0, 0.2, 1), 
+              transform 0.22s cubic-bezier(0.4, 0, 0.2, 1), 
+              background-color 0.15s ease,
+              border-color 0.15s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.teledown-hover-btn svg {
+  width: 15px;
+  height: 15px;
+  pointer-events: none;
+  display: block;
+}
+
+/* Hover triggers based on chat message layout */
+.media-photo:hover > .teledown-hover-btn,
+.attachment-photo:hover > .teledown-hover-btn,
+.album-item:hover > .teledown-hover-btn,
+.MessagePhoto:hover > .teledown-hover-btn,
+.media-wrapper:hover > .teledown-hover-btn,
+.video-container:hover > .teledown-hover-btn,
+.attachment-video:hover > .teledown-hover-btn,
+.video-wrapper:hover > .teledown-hover-btn,
+*:hover > .teledown-hover-btn {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.teledown-hover-btn:hover {
+  background-color: #229ED9 !important; /* TG Blue */
+  border-color: #229ED9 !important;
+  transform: scale(1.1) !important;
+  box-shadow: 0 0 12px rgba(34, 158, 217, 0.5);
+}
+
+/* Alternate pink theme for video downloads */
+.teledown-hover-btn.tgd-btn-video:hover {
+  background-color: #F50057 !important; /* Premium Pink */
+  border-color: #F50057 !important;
+  box-shadow: 0 0 12px rgba(245, 0, 87, 0.5);
+}
+
+.teledown-hover-btn:active {
+  transform: scale(0.92) !important;
+}
+
+/* Spinner for downloading rows */
+.spin-svg {
+  animation: tgd-spin 1s linear infinite;
+}
+
+@keyframes tgd-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ─── Inline Download Button for Audios/Voice notes ── */
+.teledown-audio-inline-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08) !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  color: #889AB0 !important;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin-left: 8px;
+  flex-shrink: 0;
+  transition: all 0.2s ease;
+  vertical-align: middle;
+}
+
+.teledown-audio-inline-btn svg {
+  width: 14px;
+  height: 14px;
+}
+
+.teledown-audio-inline-btn:hover {
+  background-color: #00E676 !important; /* Vibrant Green */
+  border-color: #00E676 !important;
+  color: #FFFFFF !important;
+  transform: scale(1.08);
+}
+
+.teledown-audio-inline-btn.active {
+  background-color: #00E676 !important;
+  border-color: #00E676 !important;
+  color: #FFFFFF !important;
+  animation: tgd-pulse 0.4s ease;
+}
+
+@keyframes tgd-pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+/* ─── Sidebar Batch Card Panel (Channel Hub) ───────── */
+.teledown-sidebar-card {
+  margin: 10px 14px 14px;
+  padding: 16px;
+  background: #0F1722 !important; /* Dark Slate Navy */
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: #F0F4F8;
+  position: relative;
+  overflow: hidden;
+}
+
+.teledown-sidebar-card::before {
+  content: '';
+  position: absolute;
+  top: -30px; left: -30px;
+  width: 80px; height: 80px;
+  background: radial-gradient(circle, rgba(245, 0, 87, 0.1) 0%, transparent 70%);
+  filter: blur(6px);
+  pointer-events: none;
+}
+
+.teledown-hub-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.hub-logo-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #F50057;
+  box-shadow: 0 0 8px rgba(245, 0, 87, 0.7);
+  display: block;
+}
+
+.hub-logo-dot.animate-pulse {
+  animation: hubPulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes hubPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: .4; transform: scale(1.15); }
+}
+
+.hub-title {
+  font-size: 13.5px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 0;
+  color: #F0F4F8;
+}
+
+.hub-description {
+  font-size: 11px;
+  color: #90A0B3;
+  line-height: 1.45;
+  margin: 0 0 12px 0;
+}
+
+.btn-hub-extract {
+  width: 100%;
+  background: linear-gradient(135deg, #F50057 0%, #D81B60 100%) !important;
+  color: #FFFFFF !important;
+  border: none !important;
+  border-radius: 20px !important;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 8px 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  box-shadow: 0 0 10px rgba(245, 0, 87, 0.3);
+  transition: all 0.2s ease;
+}
+
+.btn-hub-extract svg {
+  width: 13px;
+  height: 13px;
+}
+
+.btn-hub-extract:hover:not(:disabled) {
+  filter: brightness(1.1);
+  transform: translateY(-1px);
+  box-shadow: 0 0 12px rgba(245, 0, 87, 0.5);
+}
+
+.btn-hub-extract:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.btn-hub-extract:disabled {
+  background: rgba(255, 255, 255, 0.05) !important;
+  color: rgba(255, 255, 255, 0.2) !important;
+  border: 1px solid rgba(255, 255, 255, 0.05) !important;
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
+/* ─── Bypass Restriction Visual Overrides ─────────── */
+.media-viewer-topbar button.tgico-download,
+.media-viewer-topbar button[title*="Download"],
+#MediaViewer button[title*="Download"],
+#MediaViewer button.tel-download,
+.MediaViewerActions button[title*="Download"],
+.media-viewer-topbar button.tgico-forward,
+#MediaViewer button[title*="Forward"],
+.tgico-download,
+.tgico-forward {
+  display: flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Enable selection in messages even if restricted */
+.message, .bubble, .message-content, .text-content, [class*="message"] {
+  user-select: text !important;
+  -webkit-user-select: text !important;
+  pointer-events: auto !important;
+}

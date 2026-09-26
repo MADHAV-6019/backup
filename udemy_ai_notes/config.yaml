@@ -1,0 +1,80 @@
+# ==============================================
+# Udemy AI Notes — Configuration
+# ==============================================
+# All settings have sensible defaults. Modify only what you need.
+
+# --- General ---
+general:
+  output_dir: "./output"
+  language: "en"
+  log_level: "INFO"          # DEBUG, INFO, WARNING, ERROR
+  max_retries: 3
+  retry_delay_seconds: 5
+
+# --- Browser ---
+browser:
+  headless: false             # Set true for background processing
+  user_data_dir: "./browser_data"
+  viewport_width: 1920
+  viewport_height: 1080
+  timeout_ms: 30000
+  slow_mo_ms: 100            # Slow down actions for stability
+
+# --- Audio ---
+audio:
+  capture_method: "captions"  # "captions" (extract from Udemy UI) or "loopback" (system audio)
+  chunk_duration_seconds: 30
+  sample_rate: 16000
+  normalize: true
+  remove_silence: true
+  silence_threshold_db: -40
+
+# --- Transcription (Faster-Whisper) ---
+transcription:
+  model_size: "base"          # tiny, base, small, medium, large-v3
+  device: "auto"              # auto, cpu, cuda
+  compute_type: "auto"        # auto, int8, float16, float32
+  beam_size: 5
+  vad_filter: true
+  min_confidence: 0.4
+
+# --- Visual / OCR ---
+visual:
+  screenshot_interval_seconds: 5
+  ocr_engine: "easyocr"       # easyocr or tesseract
+  ocr_confidence_threshold: 0.5
+  slide_similarity_threshold: 0.85  # SSIM threshold for new slide detection
+  max_screenshots_per_lecture: 200
+  image_quality: 90           # JPEG quality (1-100)
+  crop_video_player: true     # Crop to video area, exclude browser chrome
+
+# --- AI / LLM ---
+ai:
+  # Supported providers: openai, google, anthropic, groq
+  provider: "groq"
+  model: "llama-3.1-8b-instant"  # groq: "mixtral-8x7b-32768" or "llama-3.1-8b-instant"             # Model name (provider-specific)
+  temperature: 0.3
+  max_tokens: 2500
+  chunk_size: 1500            # Max tokens per transcript chunk sent to LLM
+  chunk_overlap: 200
+  generate_quiz: false
+  generate_flashcards: false
+  quiz_count: 10
+  flashcard_count: 15
+
+# --- Export ---
+export:
+  formats:
+    - "markdown"
+    - "pdf"
+  pdf_theme: "professional"   # professional, academic, minimal
+  code_theme: "monokai"       # Pygments theme for code highlighting
+  embed_screenshots: true
+  table_of_contents: true
+
+# --- Performance ---
+performance:
+  max_concurrent_ocr: 4
+  batch_ocr_size: 10
+  cache_models: true
+  gpu_memory_fraction: 0.8

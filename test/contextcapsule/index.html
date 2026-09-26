@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Context Capsule — Transfer Any AI Chat Instantly</title>
+  <meta name="description" content="Package your entire AI chat context into a portable capsule. Paste it into any new AI chatbot and continue exactly where you left off." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Animated Background -->
+  <div class="bg-grid"></div>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-orb orb-3"></div>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <div class="logo-icon">
+          <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="16" cy="16" r="14" stroke="url(#grad1)" stroke-width="2"/>
+            <path d="M10 16 C10 12, 14 9, 16 9 C18 9, 22 12, 22 16 C22 20, 18 23, 16 23 C14 23, 10 20, 10 16Z" fill="url(#grad1)" opacity="0.3"/>
+            <path d="M16 9 L16 23 M10 16 L22 16" stroke="url(#grad1)" stroke-width="1.5" stroke-linecap="round"/>
+            <circle cx="16" cy="16" r="2.5" fill="url(#grad1)"/>
+            <defs>
+              <linearGradient id="grad1" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+                <stop offset="0%" stop-color="#a78bfa"/>
+                <stop offset="100%" stop-color="#38bdf8"/>
+              </linearGradient>
+            </defs>
+          </svg>
+        </div>
+        <span class="logo-text">Context<span class="logo-accent">Capsule</span></span>
+      </div>
+      <nav class="header-nav">
+        <span class="badge-new">Beta</span>
+        <a href="#how-it-works" class="nav-link">How it works</a>
+        <button class="btn-ghost" id="clear-all-btn">Clear All</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-tag">
+      <span class="pulse-dot"></span>
+      Transfer chat context to any AI — instantly
+    </div>
+    <h1 class="hero-title">
+      Package Your Chat.<br />
+      <span class="gradient-text">Continue Anywhere.</span>
+    </h1>
+    <p class="hero-subtitle">
+      Paste your conversation, add metadata, and generate a perfect context capsule 
+      to drop into ChatGPT, Claude, Gemini, HackerAI, or any other AI chatbot.
+    </p>
+  </section>
+
+  <!-- Main App -->
+  <main class="app-container">
+
+    <!-- Step 1: Input -->
+    <section class="card" id="step-input">
+      <div class="card-header">
+        <div class="step-badge">01</div>
+        <div>
+          <h2 class="card-title">Input Conversation</h2>
+          <p class="card-subtitle">Paste your chat log or add messages manually</p>
+        </div>
+        <div class="header-actions">
+          <button class="tab-btn active" id="tab-paste">Paste</button>
+          <button class="tab-btn" id="tab-manual">Manual</button>
+          <button class="tab-btn" id="tab-link">From Link</button>
+        </div>
+      </div>
+
+      <!-- Paste Tab -->
+      <div id="pane-paste" class="tab-pane active">
+        <div class="paste-area-wrapper">
+          <textarea
+            id="paste-input"
+            class="paste-area"
+            placeholder="Paste your conversation here...
+
+Example formats supported:
+• You: How do I scan ports?
+  AI: You can use nmap...
+
+• [User]: What's the vulnerability?
+  [Assistant]: This is a SQL injection...
+
+• Human: Explain XSS
+  Assistant: XSS stands for..."
+            rows="12"
+          ></textarea>
+          <div class="paste-actions">
+            <button id="btn-parse" class="btn-secondary">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"/><circle cx="12" cy="12" r="10"/></svg>
+              Parse & Import
+            </button>
+            <button id="btn-example" class="btn-ghost-sm">Load Example</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Manual Tab -->
+      <div id="pane-manual" class="tab-pane">
+        <div id="manual-messages" class="manual-messages">
+          <div class="empty-manual">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+            <p>No messages yet. Add your first message below.</p>
+          </div>
+        </div>
+        <div class="add-message-form">
+          <div class="role-selector">
+            <button class="role-btn active" id="role-user">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+              User
+            </button>
+            <button class="role-btn" id="role-assistant">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
+              AI
+            </button>
+            <button class="role-btn" id="role-system">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M4.93 4.93a10 10 0 0 0 0 14.14"/></svg>
+              System
+            </button>
+          </div>
+          <textarea id="manual-input" class="manual-input" placeholder="Type your message..." rows="3"></textarea>
+          <button id="btn-add-msg" class="btn-primary">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+            Add Message
+          </button>
+        </div>
+      </div>
+
+      <!-- Link Tab -->
+      <div id="pane-link" class="tab-pane">
+        <div class="link-area-wrapper">
+          <div class="link-input-group">
+            <svg class="link-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+            <input type="url" id="link-input" class="link-input" placeholder="Paste shared chat link (e.g., chatgpt.com/share/...)" />
+            <button class="btn-primary" id="fetch-link-btn">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+              Fetch
+            </button>
+          </div>
+          <p class="link-hint">Supported platforms: ChatGPT, Claude (public links).</p>
+          <div id="fetch-loader" class="hidden">
+            <svg class="spinner" viewBox="0 0 50 50"><circle class="path" cx="25" cy="25" r="20" fill="none" stroke-width="5"></circle></svg>
+            <span id="fetch-status">Fetching conversation...</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Step 2: Context Metadata -->
+    <section class="card" id="step-meta">
+      <div class="card-header">
+        <div class="step-badge">02</div>
+        <div>
+          <h2 class="card-title">Context Metadata</h2>
+          <p class="card-subtitle">Tell the new AI what this conversation is about</p>
+        </div>
+        <button class="collapse-btn" id="meta-toggle">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="18 15 12 9 6 15"/></svg>
+        </button>
+      </div>
+      <div class="card-body" id="meta-body">
+        <div class="meta-grid">
+          <div class="field-group">
+            <label class="field-label" for="meta-topic">Topic / Goal</label>
+            <input id="meta-topic" class="field-input" type="text" placeholder="e.g. Pentesting a web app for SQL injection vulnerabilities" />
+          </div>
+          <div class="field-group">
+            <label class="field-label" for="meta-ai-source">Source AI</label>
+            <select id="meta-ai-source" class="field-input field-select">
+              <option value="">Select source AI...</option>
+              <option value="ChatGPT">ChatGPT</option>
+              <option value="Claude">Claude</option>
+              <option value="Gemini">Gemini</option>
+              <option value="HackerAI">HackerAI</option>
+              <option value="Copilot">Microsoft Copilot</option>
+              <option value="Perplexity">Perplexity</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+          <div class="field-group">
+            <label class="field-label" for="meta-ai-target">Target AI</label>
+            <select id="meta-ai-target" class="field-input field-select">
+              <option value="">Select target AI...</option>
+              <option value="ChatGPT">ChatGPT</option>
+              <option value="Claude">Claude</option>
+              <option value="Gemini">Gemini</option>
+              <option value="HackerAI">HackerAI</option>
+              <option value="Copilot">Microsoft Copilot</option>
+              <option value="Perplexity">Perplexity</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+          <div class="field-group">
+            <label class="field-label" for="meta-persona">AI Persona / Role</label>
+            <input id="meta-persona" class="field-input" type="text" placeholder="e.g. Expert cybersecurity researcher, helpful coding assistant" />
+          </div>
+        </div>
+        <div class="field-group full-width">
+          <label class="field-label" for="meta-context">Additional Context</label>
+          <textarea id="meta-context" class="field-input" rows="3" placeholder="Any important background info, constraints, or ongoing tasks the new AI should know about..."></textarea>
+        </div>
+        <div class="field-group full-width">
+          <label class="field-label" for="meta-continue">Continue From (optional)</label>
+          <input id="meta-continue" class="field-input" type="text" placeholder="e.g. We were just about to analyze the login endpoint for IDOR vulnerabilities" />
+        </div>
+      </div>
+    </section>
+
+    <!-- Step 3: Format Options -->
+    <section class="card" id="step-format">
+      <div class="card-header">
+        <div class="step-badge">03</div>
+        <div>
+          <h2 class="card-title">Output Format</h2>
+          <p class="card-subtitle">Choose the best format for your target AI</p>
+        </div>
+        <button class="collapse-btn" id="format-toggle">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="18 15 12 9 6 15"/></svg>
+        </button>
+      </div>
+      <div class="card-body" id="format-body">
+        <div class="format-options">
+          <label class="format-card active" id="fmt-structured">
+            <input type="radio" name="format" value="structured" checked />
+            <div class="format-icon">📋</div>
+            <div class="format-info">
+              <span class="format-name">Structured</span>
+              <span class="format-desc">Labeled sections, best for Claude & GPT-4</span>
+            </div>
+          </label>
+          <label class="format-card" id="fmt-xml">
+            <input type="radio" name="format" value="xml" />
+            <div class="format-icon">🏷️</div>
+            <div class="format-info">
+              <span class="format-name">XML Tags</span>
+              <span class="format-desc">XML wrapped, best for Claude</span>
+            </div>
+          </label>
+          <label class="format-card" id="fmt-markdown">
+            <input type="radio" name="format" value="markdown" />
+            <div class="format-icon">📝</div>
+            <div class="format-info">
+              <span class="format-name">Markdown</span>
+              <span class="format-desc">Clean markdown headers and blocks</span>
+            </div>
+          </label>
+          <label class="format-card" id="fmt-plain">
+            <input type="radio" name="format" value="plain" />
+            <div class="format-icon">📄</div>
+            <div class="format-info">
+              <span class="format-name">Plain Text</span>
+              <span class="format-desc">Simple and universal</span>
+            </div>
+          </label>
+        </div>
+        <div class="options-row">
+          <label class="toggle-option">
+            <input type="checkbox" id="opt-summary" checked />
+            <span class="toggle-track"><span class="toggle-thumb"></span></span>
+            <span>Include AI-style summary intro</span>
+          </label>
+          <label class="toggle-option">
+            <input type="checkbox" id="opt-token-hint" checked />
+            <span class="toggle-track"><span class="toggle-thumb"></span></span>
+            <span>Show message count & token estimate</span>
+          </label>
+          <label class="toggle-option">
+            <input type="checkbox" id="opt-instructions" checked />
+            <span class="toggle-track"><span class="toggle-thumb"></span></span>
+            <span>Add "continue the conversation" instruction</span>
+          </label>
+        </div>
+      </div>
+    </section>
+
+    <!-- Generate Button -->
+    <div class="generate-section">
+      <button class="btn-generate" id="generate-btn">
+        <svg class="btn-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
+        </svg>
+        Generate Context Capsule
+      </button>
+      <p class="generate-hint">Your conversation is processed locally — nothing is sent to any server</p>
+    </div>
+
+    <!-- Step 4: Output -->
+    <section class="card output-card hidden" id="step-output">
+      <div class="card-header">
+        <div class="step-badge success">✓</div>
+        <div>
+          <h2 class="card-title">Your Context Capsule</h2>
+          <p class="card-subtitle" id="output-stats">Ready to paste into any AI chatbot</p>
+        </div>
+        <div class="output-actions">
+          <button class="btn-ghost-sm" id="copy-btn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+            Copy
+          </button>
+          <button id="btn-download" class="btn-ghost-sm">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download
+          </button>
+        </div>
+      </div>
+      <div class="output-wrapper">
+        <pre id="capsule-output" class="capsule-output"></pre>
+      </div>
+      <div class="quick-links">
+        <span class="quick-links-label">Open in:</span>
+        <a href="https://chat.openai.com" target="_blank" class="quick-link">ChatGPT</a>
+        <a href="https://claude.ai" target="_blank" class="quick-link">Claude</a>
+        <a href="https://gemini.google.com" target="_blank" class="quick-link">Gemini</a>
+        <a href="https://hackerai.co" target="_blank" class="quick-link">HackerAI</a>
+      </div>
+    </section>
+
+    <!-- How it works -->
+    <section id="how-it-works" class="how-section">
+      <h2 class="section-title">How It Works</h2>
+      <div class="steps-grid">
+        <div class="step-card">
+          <div class="step-num">1</div>
+          <h3>Paste or Type</h3>
+          <p>Paste your raw chat export or manually add messages one by one with role labels.</p>
+        </div>
+        <div class="step-card">
+          <div class="step-num">2</div>
+          <h3>Add Context</h3>
+          <p>Describe the topic, source AI, and any extra context the new AI needs to understand.</p>
+        </div>
+        <div class="step-card">
+          <div class="step-num">3</div>
+          <h3>Generate Capsule</h3>
+          <p>Choose your output format and generate a perfectly structured context package.</p>
+        </div>
+        <div class="step-card">
+          <div class="step-num">4</div>
+          <h3>Continue Anywhere</h3>
+          <p>Copy and paste into any AI chatbot. The new AI instantly understands your full context.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Toast -->
+  <div id="toast" class="toast hidden">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+    <span id="toast-msg">Copied to clipboard!</span>
+  </div>
+
+  <footer class="footer">
+    <p>Context Capsule &mdash; Built for seamless AI context transfer &bull; All processing is local &bull; No data stored</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

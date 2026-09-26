@@ -1,0 +1,68 @@
+com.cinemaos.app-jetified-ui-tooling-release-0 C:\Users\madhav\.gradle\caches\transforms-3\017bbbf6aab5ef6460cfeb209c6bee00\transformed\jetified-ui-tooling-release\res
+com.cinemaos.app-jetified-ui-graphics-release-1 C:\Users\madhav\.gradle\caches\transforms-3\0eadf8d4a12076abd02a9478add5109d\transformed\jetified-ui-graphics-release\res
+com.cinemaos.app-sqlite-2.4.0-2 C:\Users\madhav\.gradle\caches\transforms-3\0fc7e5103a0fc8bcc029ac5d9d1baf02\transformed\sqlite-2.4.0\res
+com.cinemaos.app-jetified-material-release-3 C:\Users\madhav\.gradle\caches\transforms-3\11a871be21b65c645665e80cf1818f33\transformed\jetified-material-release\res
+com.cinemaos.app-recyclerview-1.3.0-4 C:\Users\madhav\.gradle\caches\transforms-3\128c2473701ec8a06149bb477c38d39b\transformed\recyclerview-1.3.0\res
+com.cinemaos.app-jetified-savedstate-1.2.1-5 C:\Users\madhav\.gradle\caches\transforms-3\214af87d5a8883e82b89715f05fc8d2f\transformed\jetified-savedstate-1.2.1\res
+com.cinemaos.app-core-runtime-2.2.0-6 C:\Users\madhav\.gradle\caches\transforms-3\28efecc66f16aeb87a7cd7e47e22fe5f\transformed\core-runtime-2.2.0\res
+com.cinemaos.app-jetified-activity-1.8.2-7 C:\Users\madhav\.gradle\caches\transforms-3\2a0c108cd04b83fb295f922e9428a1a7\transformed\jetified-activity-1.8.2\res
+com.cinemaos.app-fragment-1.5.1-8 C:\Users\madhav\.gradle\caches\transforms-3\2dd2ad0438841031d4b19f2961b521a5\transformed\fragment-1.5.1\res
+com.cinemaos.app-jetified-emoji2-1.3.0-9 C:\Users\madhav\.gradle\caches\transforms-3\3022c4a166be329765e088de38b76b83\transformed\jetified-emoji2-1.3.0\res
+com.cinemaos.app-media-1.6.0-10 C:\Users\madhav\.gradle\caches\transforms-3\40157124bff1837fc4d1bd3077227c3b\transformed\media-1.6.0\res
+com.cinemaos.app-jetified-media3-exoplayer-1.2.1-11 C:\Users\madhav\.gradle\caches\transforms-3\4209168eea8ebe5edb2e4cd70db51929\transformed\jetified-media3-exoplayer-1.2.1\res
+com.cinemaos.app-navigation-common-2.7.7-12 C:\Users\madhav\.gradle\caches\transforms-3\4331afd10ba82c62605e11326b9050a4\transformed\navigation-common-2.7.7\res
+com.cinemaos.app-jetified-navigation-compose-2.7.7-13 C:\Users\madhav\.gradle\caches\transforms-3\43be47ea35d2e6136db10f1419f17d2e\transformed\jetified-navigation-compose-2.7.7\res
+com.cinemaos.app-navigation-runtime-2.7.7-14 C:\Users\madhav\.gradle\caches\transforms-3\44ccec7da0808f4a9b2f8e3b1e1cf522\transformed\navigation-runtime-2.7.7\res
+com.cinemaos.app-jetified-profileinstaller-1.3.1-15 C:\Users\madhav\.gradle\caches\transforms-3\4833a8363970250fc7cd9e3a06470561\transformed\jetified-profileinstaller-1.3.1\res
+com.cinemaos.app-jetified-media3-ui-1.2.1-16 C:\Users\madhav\.gradle\caches\transforms-3\4c2433e786b94c4bd1b01f6412b94ab3\transformed\jetified-media3-ui-1.2.1\res
+com.cinemaos.app-jetified-animation-core-release-17 C:\Users\madhav\.gradle\caches\transforms-3\4c83c743fa4bac7290155147bacf2812\transformed\jetified-animation-core-release\res
+com.cinemaos.app-jetified-ui-release-18 C:\Users\madhav\.gradle\caches\transforms-3\4f807f6345cf74f85d3d238264e05179\transformed\jetified-ui-release\res
+com.cinemaos.app-jetified-hilt-navigation-1.1.0-19 C:\Users\madhav\.gradle\caches\transforms-3\5533bc6307a36a423ece5dad15d77f34\transformed\jetified-hilt-navigation-1.1.0\res
+com.cinemaos.app-jetified-appcompat-resources-1.6.1-20 C:\Users\madhav\.gradle\caches\transforms-3\66f29dded64897a45d72971717e76307\transformed\jetified-appcompat-resources-1.6.1\res
+com.cinemaos.app-navigation-common-ktx-2.7.7-21 C:\Users\madhav\.gradle\caches\transforms-3\6b0a32849a6c2212af13749bc97fbf43\transformed\navigation-common-ktx-2.7.7\res
+com.cinemaos.app-jetified-runtime-saveable-release-22 C:\Users\madhav\.gradle\caches\transforms-3\6cca4cf0fd284ce69d09a96fac35e95b\transformed\jetified-runtime-saveable-release\res
+com.cinemaos.app-jetified-lifecycle-livedata-core-ktx-2.7.0-23 C:\Users\madhav\.gradle\caches\transforms-3\70deaa47cfc5c9fbbf8b29f67cb5c98d\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.cinemaos.app-navigation-runtime-ktx-2.7.7-24 C:\Users\madhav\.gradle\caches\transforms-3\7aaf96f891b6c802d8280d8a73af2f6c\transformed\navigation-runtime-ktx-2.7.7\res
+com.cinemaos.app-jetified-ui-test-manifest-1.6.0-25 C:\Users\madhav\.gradle\caches\transforms-3\7c03a84920d3f8cbe87496ae64f384ca\transformed\jetified-ui-test-manifest-1.6.0\res
+com.cinemaos.app-jetified-room-ktx-2.6.1-26 C:\Users\madhav\.gradle\caches\transforms-3\7cfa31e4cc907c3a5042a470b1b8b6fa\transformed\jetified-room-ktx-2.6.1\res
+com.cinemaos.app-lifecycle-runtime-2.7.0-27 C:\Users\madhav\.gradle\caches\transforms-3\8193b5efaae34052e2fef4544eb1f3d3\transformed\lifecycle-runtime-2.7.0\res
+com.cinemaos.app-jetified-hilt-navigation-compose-1.1.0-28 C:\Users\madhav\.gradle\caches\transforms-3\85673e4dba30f906e6fccf7bebba7af5\transformed\jetified-hilt-navigation-compose-1.1.0\res
+com.cinemaos.app-jetified-ui-util-release-29 C:\Users\madhav\.gradle\caches\transforms-3\85ddec2d6f3226fe3c61c692d2221f78\transformed\jetified-ui-util-release\res
+com.cinemaos.app-lifecycle-viewmodel-2.7.0-30 C:\Users\madhav\.gradle\caches\transforms-3\86fe3f5924045f38febc0bfe98453df1\transformed\lifecycle-viewmodel-2.7.0\res
+com.cinemaos.app-core-1.12.0-31 C:\Users\madhav\.gradle\caches\transforms-3\911b074fc794e41960195c5c2aa39344\transformed\core-1.12.0\res
+com.cinemaos.app-jetified-ui-text-release-32 C:\Users\madhav\.gradle\caches\transforms-3\a2384c38329e3f6a561a0b5a56126b6e\transformed\jetified-ui-text-release\res
+com.cinemaos.app-jetified-lifecycle-viewmodel-ktx-2.7.0-33 C:\Users\madhav\.gradle\caches\transforms-3\aa229920cab439fa583b456a07854ab5\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.cinemaos.app-jetified-ui-geometry-release-34 C:\Users\madhav\.gradle\caches\transforms-3\aa3c86fb0530c310d26f82cea301bfa4\transformed\jetified-ui-geometry-release\res
+com.cinemaos.app-lifecycle-livedata-core-2.7.0-35 C:\Users\madhav\.gradle\caches\transforms-3\ab2b337ffe22d8e13f0214f95ed1c57f\transformed\lifecycle-livedata-core-2.7.0\res
+com.cinemaos.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-36 C:\Users\madhav\.gradle\caches\transforms-3\ab3febaa7b4ba81ab0e329116d9225da\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.cinemaos.app-jetified-material3-1.1.2-37 C:\Users\madhav\.gradle\caches\transforms-3\ac8be7029fa58f973431a8bc7ad2d5ae\transformed\jetified-material3-1.1.2\res
+com.cinemaos.app-jetified-startup-runtime-1.1.1-38 C:\Users\madhav\.gradle\caches\transforms-3\b02b1ab39e7ea788139639ebdffc8b6b\transformed\jetified-startup-runtime-1.1.1\res
+com.cinemaos.app-jetified-lifecycle-runtime-ktx-2.7.0-39 C:\Users\madhav\.gradle\caches\transforms-3\b30ee03dd55030d32f2999a51d0a1a48\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.cinemaos.app-lifecycle-livedata-2.7.0-40 C:\Users\madhav\.gradle\caches\transforms-3\b3445560927ea7f6a2a1805e9dc39ecc\transformed\lifecycle-livedata-2.7.0\res
+com.cinemaos.app-jetified-activity-compose-1.8.2-41 C:\Users\madhav\.gradle\caches\transforms-3\b7093d4eecd0f03394656d105c1c4f2a\transformed\jetified-activity-compose-1.8.2\res
+com.cinemaos.app-jetified-animation-release-42 C:\Users\madhav\.gradle\caches\transforms-3\b84909bc083ba1baf1fcf487b16d36e3\transformed\jetified-animation-release\res
+com.cinemaos.app-jetified-foundation-layout-release-43 C:\Users\madhav\.gradle\caches\transforms-3\baf1858c6a6c95694c0e0ce4fd8e2540\transformed\jetified-foundation-layout-release\res
+com.cinemaos.app-jetified-lifecycle-process-2.7.0-44 C:\Users\madhav\.gradle\caches\transforms-3\bbcd0911b150d616c1646c9c3bd9509b\transformed\jetified-lifecycle-process-2.7.0\res
+com.cinemaos.app-jetified-core-ktx-1.12.0-45 C:\Users\madhav\.gradle\caches\transforms-3\c32823b44dcf5bf4ca61f3b279b028eb\transformed\jetified-core-ktx-1.12.0\res
+com.cinemaos.app-room-runtime-2.6.1-46 C:\Users\madhav\.gradle\caches\transforms-3\c827d87005ad785f71f928c93378ccb2\transformed\room-runtime-2.6.1\res
+com.cinemaos.app-jetified-material-ripple-release-47 C:\Users\madhav\.gradle\caches\transforms-3\ca4d186148da2e760c54767f8641912e\transformed\jetified-material-ripple-release\res
+com.cinemaos.app-jetified-runtime-release-48 C:\Users\madhav\.gradle\caches\transforms-3\cb969ed846ddc2d1c75f9848566ebd85\transformed\jetified-runtime-release\res
+com.cinemaos.app-jetified-customview-poolingcontainer-1.0.0-49 C:\Users\madhav\.gradle\caches\transforms-3\cda34cc1d203e913cb437dfdf9fe91f4\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.cinemaos.app-jetified-ui-unit-release-50 C:\Users\madhav\.gradle\caches\transforms-3\cdcc5500ef312d410ae070f9fd3aaaab\transformed\jetified-ui-unit-release\res
+com.cinemaos.app-jetified-lifecycle-viewmodel-compose-2.7.0-51 C:\Users\madhav\.gradle\caches\transforms-3\d8980c620e579bbfc680e7d88b05ac8a\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\res
+com.cinemaos.app-jetified-annotation-experimental-1.3.1-52 C:\Users\madhav\.gradle\caches\transforms-3\e06b8fa0ad02e33fe1cc49f6388b23f9\transformed\jetified-annotation-experimental-1.3.1\res
+com.cinemaos.app-jetified-ui-tooling-data-release-53 C:\Users\madhav\.gradle\caches\transforms-3\e3297a835a959c11942560d248887d40\transformed\jetified-ui-tooling-data-release\res
+com.cinemaos.app-jetified-coil-base-2.5.0-54 C:\Users\madhav\.gradle\caches\transforms-3\e3618d59d8dca393789b0f9215398a69\transformed\jetified-coil-base-2.5.0\res
+com.cinemaos.app-jetified-media3-session-1.2.1-55 C:\Users\madhav\.gradle\caches\transforms-3\e4602bf1ebeb125998b5357bf44184cd\transformed\jetified-media3-session-1.2.1\res
+com.cinemaos.app-jetified-activity-ktx-1.8.2-56 C:\Users\madhav\.gradle\caches\transforms-3\ece1707180a9fe061bd39caf9062747a\transformed\jetified-activity-ktx-1.8.2\res
+com.cinemaos.app-jetified-material-icons-core-release-57 C:\Users\madhav\.gradle\caches\transforms-3\edc8731bcf000c5b380c77887dc6ff80\transformed\jetified-material-icons-core-release\res
+com.cinemaos.app-jetified-savedstate-ktx-1.2.1-58 C:\Users\madhav\.gradle\caches\transforms-3\fa97f4f33a92c92216e31072fd3fc63e\transformed\jetified-savedstate-ktx-1.2.1\res
+com.cinemaos.app-jetified-foundation-release-59 C:\Users\madhav\.gradle\caches\transforms-3\fadb115f5c0e919478fc3f8c7a7dd4d7\transformed\jetified-foundation-release\res
+com.cinemaos.app-sqlite-framework-2.4.0-60 C:\Users\madhav\.gradle\caches\transforms-3\fb6a4ae428160543136da45d2d5e04a6\transformed\sqlite-framework-2.4.0\res
+com.cinemaos.app-jetified-ui-tooling-preview-release-61 C:\Users\madhav\.gradle\caches\transforms-3\fc90a046ee6a56de9c145f13273c7c02\transformed\jetified-ui-tooling-preview-release\res
+com.cinemaos.app-resValues-62 C:\Users\madhav\Documents\vs code all project\movie_android\app\build\generated\res\resValues\debug
+com.cinemaos.app-packageDebugResources-63 C:\Users\madhav\Documents\vs code all project\movie_android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.cinemaos.app-packageDebugResources-64 C:\Users\madhav\Documents\vs code all project\movie_android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.cinemaos.app-merged_res-65 C:\Users\madhav\Documents\vs code all project\movie_android\app\build\intermediates\merged_res\debug
+com.cinemaos.app-debug-66 C:\Users\madhav\Documents\vs code all project\movie_android\app\src\debug\res
+com.cinemaos.app-main-67 C:\Users\madhav\Documents\vs code all project\movie_android\app\src\main\res
